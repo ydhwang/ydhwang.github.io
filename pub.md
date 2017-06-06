@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bio
-permalink: /Bio/
+title: Publication
+permalink: /Publication/
 ---
 
 # Employment History
