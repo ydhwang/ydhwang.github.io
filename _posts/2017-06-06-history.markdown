@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2017-06-06 14:49:52 -0400
+categories: test post
+---
+This is a test post to see how the syntax highlight would look like. 
+
+{% highlight r %}
+lm(y~x, data=dat)
+{% endhighlight %}
+
