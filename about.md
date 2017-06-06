@@ -40,6 +40,16 @@ __Publication__
 1. Chung, H., Kong, E., Edwards, J., Weismer, G., Fourakis, M. and Hwang, Y. (2012). Cross-linguistic Studies of Children’s and Adults’ Vowel Spaces. The Journal of the Acoustical Society of America. 131, 442–454.
 1. Wang, F., Hwang, Y., Qian, P. Z. G. and Wang, X. (2010). A Statistics-Guided Approach to Precise Characterization of Nanowire Morphology. American Chemical Society Nano, 4, 855–862.
 
+__Reports__
+1. Zhang, Q. and  Hwang, Y. (2017) Exact Knowledge Gradient for Stochastic Computer Model Assisted Optimal Decision Making. Submitted to Technometrics.
+1. Hwang, Y., S. Lu and Kim, J. (2017). Bottom-Up Estimation and Top-Down Prediction for Multilevel Models: Solar Energy Prediction Combining Information From Multiple Sources. 
+Annals of Applied Statistics, Revision submitted.
+1. Cho, D. and  Hwang, Y. and Park, J. (2017).  More Buzz, More Vibes: Impact of Social Media on Concert Distribution. Under revision for  Journal of Economic Behavior & Organization.
+1. Qian, P., Amemiya, Y.,  Hwang, Y. (2017). A Structural Equation Method for Modeling Multivariate Data from Computer Experiments: with Application to Data Center Thermal Management. 
+Under revision for Technometrics.
+
+
+
 __Patent__
 * Multi-model Blending (US9471884)
 * Building Energy Consumption Forecasting Procedure Using Ambient Temperature, Enthalpy, Bias Corrected Weather Forecast and Outlier  Corrected Sensor Data (US2015/0331023 A1).
