@@ -7,26 +7,26 @@ I am a statistician working at IBM TJ Watson Research. I'm interested in develop
 
 
 
-# Employment
+__Employment__
 
 _IBM Thomas J. Watson Research  Center, Yorktown Heights, NY_
 * Research Staff Member.  Mar 2014 - Present. 
 * Postdoctoral Researcher. Sep 2012  - Feb 2014
 
-# Education
+__Education__
 
 _University of Wisconsin - Madison, Madison, WI_  
 * Ph.D., Statistics, 2012.
 * M.S.,  Statistics, 2010.
 
-# Research Interests
+__Research Interests__
 * Analytics in Technology, Business and Service
 * Spatio-temporal Analytics
 * Design of Experiments
 * Inverse Problems and Uncertainty Quantification
 * Environmental Statistics
 
-# Publication
+__Publication__
 1. Hwang, Y., Barut, E., Yeo, K. (2017+). Statistical-physical estimation of pollution emission. Statistica Sinica. In press.
 1. Hwang, Y., Wright, S., and Hanlon, B. (2017+). Estimation and Testing Problems in Auditory Neuroscience via Clustering. Biometrics. In press.
 1. Wright, S., Wallace, E. and Hwang, Y. and Maganti, R.(2016). Seizure Phenotypes and Sleep–Wake Pattern of Seizures in KCNA1-null Mutant Mice. Epilepsy & Behavior, 55, 24–29.
@@ -40,16 +40,16 @@ _University of Wisconsin - Madison, Madison, WI_
 1. Chung, H., Kong, E., Edwards, J., Weismer, G., Fourakis, M. and Hwang, Y. (2012). Cross-linguistic Studies of Children’s and Adults’ Vowel Spaces. The Journal of the Acoustical Society of America. 131, 442–454.
 1. Wang, F., Hwang, Y., Qian, P. Z. G. and Wang, X. (2010). A Statistics-Guided Approach to Precise Characterization of Nanowire Morphology. American Chemical Society Nano, 4, 855–862.
 
-# Patent
+__Patent__
 * Multi-model Blending (US9471884)
 * Building Energy Consumption Forecasting Procedure Using Ambient Temperature, Enthalpy, Bias Corrected Weather Forecast and Outlier  Corrected Sensor Data (US2015/0331023 A1).
 * Parameter-dependent model-blending with multi-expert based machine learning and proxy sites (pending).
 
 
-# Honors
+__Honors__
 Career Development Award, Korean International Statistical Society, 2016.
 
-# Professional Service
+__Professional Service__
 Referee for _Technometrics, Statistica Sinica, Journal of Nonparametric Statistics, Statistics and Probability Letters, PLOS ONE_.
 
 Associate editor for _Communications for Statistical Applications and Methods_. 
