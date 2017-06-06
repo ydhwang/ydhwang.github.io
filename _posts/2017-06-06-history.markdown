@@ -4,6 +4,7 @@ title:  "Hello world!"
 date:   2017-06-06 14:49:52 -0400
 categories: test post
 ---
+I finally get started with Github and Jekyll. I hope this can be a semi-permanent adjustment.
 This is a test post to see how the syntax highlight would look like. 
 
 {% highlight r %}
