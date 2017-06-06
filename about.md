@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: About
 permalink: /about/
 ---
 I am a statistician working at IBM TJ Watson Research. I'm interested in developing new statistical methodologies for solving problems in design and analysis of computer experiments, remote-sensing technology and wireless sensor networks. 
