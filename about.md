@@ -52,8 +52,8 @@ Under revision for *Technometrics*.
 
 __Patent__
 * Multi-model Blending (US9471884)
-* Building Energy Consumption Forecasting Procedure Using Ambient Temperature, Enthalpy, Bias Corrected Weather Forecast and Outlier  Corrected Sensor Data (US2015/0331023 A1).
-* Parameter-dependent model-blending with multi-expert based machine learning and proxy sites (pending).
+* Building Energy Consumption Forecasting Procedure Using Ambient Temperature, Enthalpy, Bias Corrected Weather Forecast and Outlier  Corrected Sensor Data (US9568519).
+* Parameter-dependent model-blending with multi-expert based machine learning and proxy sites (US20170017895 A1).
 
 
 __Honors__
