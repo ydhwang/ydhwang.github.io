@@ -14,5 +14,5 @@ __Unsorted__ \\
 [The New York Times](https://www.nytimes.com) \\
 [Storycorps](https://storycorps.org/) \\
 [NPR](http://www.npr.org) \\
-[The Effort Report](http://effortreport.libsyn.com)
+[The Effort Report](http://effortreport.libsyn.com) \\
 [Andrew Gelman](http://andrewgelman.com)
