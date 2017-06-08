@@ -17,4 +17,4 @@ __Unsorted__ \\
 [The Effort Report](http://effortreport.libsyn.com) \\
 [Andrew Gelman](http://andrewgelman.com)
 
-__Collaborators__\\
+__Collaborators__
