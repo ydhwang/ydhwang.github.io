@@ -17,7 +17,7 @@ __Unsorted__ \\
 [The Effort Report](http://effortreport.libsyn.com) \\
 [Andrew Gelman](http://andrewgelman.com)
 
-__Collaborators__
+__Collaborators__ \\
 [Emre Barut](http://home.gwu.edu/~barut/) \\
 [Jae Kwang Kim](http://jkim.public.iastate.edu)\\
 [Hang J Kim](http://www.artsci.uc.edu/departments/math/fac_staff.html?eid=kim3h4&thecomp=uceprof)\\
