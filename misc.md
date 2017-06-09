@@ -23,4 +23,4 @@ __Collaborators__
 [Hang J Kim](http://www.artsci.uc.edu/departments/math/fac_staff.html?eid=kim3h4&thecomp=uceprof)\\
 [Peter Qian](https://uq.wisc.edu) \\
 [Kyongmin Yeo](http://www.dam.brown.edu/people/kyeo/)\\
-[Qiong Zhang](https://sites.google.com/site/zhangqiongwisc/)\\
+[Qiong Zhang](https://sites.google.com/site/zhangqiongwisc/)
