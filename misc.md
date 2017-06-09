@@ -18,9 +18,9 @@ __Unsorted__ \\
 [Andrew Gelman](http://andrewgelman.com)
 
 __Collaborators__
-[Emre Barut](http://home.gwu.edu/~barut/)
-[Jae Kwang Kim](http://jkim.public.iastate.edu)
-[Hang J Kim](http://www.artsci.uc.edu/departments/math/fac_staff.html?eid=kim3h4&thecomp=uceprof)
-[Peter Qian](https://uq.wisc.edu)
-[Kyongmin Yeo](http://www.dam.brown.edu/people/kyeo/)
-[Qiong Zhang](https://sites.google.com/site/zhangqiongwisc/)
+[Emre Barut](http://home.gwu.edu/~barut/) \\
+[Jae Kwang Kim](http://jkim.public.iastate.edu)\\
+[Hang J Kim](http://www.artsci.uc.edu/departments/math/fac_staff.html?eid=kim3h4&thecomp=uceprof)\\
+[Peter Qian](https://uq.wisc.edu) \\
+[Kyongmin Yeo](http://www.dam.brown.edu/people/kyeo/)\\
+[Qiong Zhang](https://sites.google.com/site/zhangqiongwisc/)\\
