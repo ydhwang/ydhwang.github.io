@@ -6,6 +6,6 @@ categories: video
 ---
 
 
-{% youtube "https://youtu.be/7oOpsfbiJlA?list=PLqD5hvMO4a9fMxtzQTek73K-E65suJIQV" %}
+{% youtube "https://www.youtube.com/watch?v=7oOpsfbiJlA" %}
 
 To read more on this story: [Upworthy](http://www.upworthy.com/a-man-explains-why-he-treated-a-knife-wielding-mugger-with-kindness-and-respect)
