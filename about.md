@@ -9,13 +9,13 @@ I am a statistician working at [IBM TJ Watson Research Center](http://www.resear
 
 __Employment__
 
-_[IBM TJ Watson Research Center](http://www.research.ibm.com/labs/watson/index.shtml), Yorktown Heights, NY_
+_[IBM TJ Watson Research Center](http://www.research.ibm.com/labs/watson/index.shtml), [Yorktown Heights](https://goo.gl/maps/XJVGy1Rk8U82), [NY](http://www.ny.gov)_
 * Research Staff Member.  Mar 2014 - Present. 
 * Postdoctoral Researcher. Sep 2012  - Feb 2014
 
 __Education__
 
-_[University of Wisconsin - Madison](http://www.wisc.edu), Madison, WI_  
+_[University of Wisconsin - Madison](http://www.wisc.edu), [Madison](https://goo.gl/maps/cDpxj9jpsDq), [WI](http://www.wisconsin.gov/)_  
 * Ph.D., [Statistics](http://www.stat.wisc.edu), 2012.
 * M.S.,  [Statistics](http://www.stat.wisc.edu), 2010.
 
