@@ -65,6 +65,6 @@ __Professional Service__
 
 Referee for _Technometrics, Statistica Sinica, Journal of Nonparametric Statistics, Statistics and Probability Letters, PLOS ONE_.
 
-Associate editor for _Communications for Statistical Applications and Methods_. 
+Associate editor for [Communications for Statistical Applications and Methods](http://www.csam.or.kr/main.html). 
 
 
