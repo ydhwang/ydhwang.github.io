@@ -9,6 +9,7 @@ __Resources__ \\
 [Rstudio](https://www.rstudio.com) \\
 [American Statistical Association](http://www.amstat.org) \\
 [Github](https://github.com/ydhwang) 
+[pandoc](http://pandoc.org/)
 
 __Collaborators__ \\
 [Emre Barut](http://home.gwu.edu/~barut/) \\
