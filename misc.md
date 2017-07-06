@@ -6,7 +6,7 @@ permalink: /links/
 
 __Resources__ \\
 [The R Project for Statistical Computing](https://www.r-project.org) \\
-[Rstudio](https://www.rstudio.com) \\
+[RStudio](https://www.rstudio.com) \\
 [American Statistical Association](http://www.amstat.org) \\
 [Github](https://github.com/ydhwang) \\
 [pandoc](http://pandoc.org/)
