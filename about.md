@@ -8,9 +8,11 @@ I am an assistant professor at the [Department of Statistics](http://shb.skku.ed
 
 
 __Employment__
+_[Department of Statistics, Sungkyunkwan University (SKKU)](http://www.skku.edu/eng_home/index.jsp), Seoul, Korea
+* Assistant Professor. Aug 2017 - Present
 
 [IBM TJ Watson Research Center](http://www.research.ibm.com/labs/watson/index.shtml), [Yorktown Heights](https://goo.gl/maps/XJVGy1Rk8U82), [NY](http://www.ny.gov)
-* Research Staff Member.  Mar 2014 - Present. 
+* Research Staff Member.  Mar 2014 - Aug 2017 
 * Postdoctoral Researcher. Sep 2012  - Feb 2014
 
 __Education__
