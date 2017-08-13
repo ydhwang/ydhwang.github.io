@@ -30,7 +30,7 @@ __Research Interests__
 * Environmental Statistics
 
 __Publication__
-1. Hwang, Y., Barut, E., Yeo, K. (2017+). [Statistical-physical estimation of pollution emission](http://www3.stat.sinica.edu.tw/preprint/SS-2016-0162_Preprint.pdf). *Statistica Sinica*. In press.
+1. Hwang, Y., Barut, E., Yeo, K. (2018). [Statistical-physical estimation of pollution emission](http://www3.stat.sinica.edu.tw/preprint/SS-2016-0162_Preprint.pdf). *Statistica Sinica*. In press.
 1. Hwang, Y., Wright, S., and Hanlon, B. (2017+). [Estimation and Testing Problems in Auditory Neuroscience via Clustering.](http://onlinelibrary.wiley.com/doi/10.1111/biom.12652/full) *Biometrics*. In press.
 1. Wright, S., Wallace, E. and Hwang, Y. and Maganti, R.(2016). [Seizure Phenotypes and Sleep–Wake Pattern of Seizures in KCNA1-null Mutant Mice.](http://www.sciencedirect.com/science/article/pii/S1525505015006538) *Epilepsy & Behavior*, **55**, 24–29.
 1. Hwang, Y., He, X. and Qian, P. Z. G. (2016). [Sliced Orthogonal Array Based Latin Hypercube Designs.](http://www.tandfonline.com/doi/abs/10.1080/00401706.2014.993092) *Technometrics*, **58**, 50–61.
