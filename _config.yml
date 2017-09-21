@@ -31,3 +31,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
 plugins: [jekyll-youtube] 
+
+# Google Analytics
+google_analytics: UA-106765025-1
