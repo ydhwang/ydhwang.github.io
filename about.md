@@ -24,7 +24,6 @@ __Education__
 
 __Research Interests__
 * Analytics in Technology, Business and Service
-* Spatio-temporal Analytics
 * Design of Experiments
 * Inverse Problems and Uncertainty Quantification
 * Environmental Statistics
@@ -52,7 +51,8 @@ __Reports__
 1. Qian, P., Amemiya, Y.,  Hwang, Y. (2017). A Structural Equation Method for Modeling Multivariate Data from Computer Experiments: with Application to Data Center Thermal Management. 
 Under revision for *Technometrics*.
 
-
+__Research Grants__
+* NRF-2017R1C1B5075436 (2017-2020). 
 
 __Patent__
 * Multi-model Blending (US20150347922 A1)
