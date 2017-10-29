@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Some fun reading"
+title:  "Some fun statistics reading"
 date:   2017-10-27 13:25:00 +0900
 categories: statistics
 ---
