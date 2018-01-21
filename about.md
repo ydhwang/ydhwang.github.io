@@ -46,8 +46,6 @@ __Publication__
 
 __Reports__
 1. Zhang, Q. and  Hwang, Y. (2017) Exact Knowledge Gradient for Stochastic Computer Model Assisted Optimal Decision Making. Submitted to *Technometrics*.
-1. Hwang, Y., Lu, S. and Kim, J. (2017). Bottom-Up Estimation and Top-Down Prediction for Multilevel Models: Solar Energy Prediction Combining Information From Multiple Sources. 
-*Annals of Applied Statistics*, Revision submitted.
 1. Cho, D. and  Hwang, Y. and Park, J. (2017).  More Buzz, More Vibes: Impact of Social Media on Concert Distribution. Under revision for  *Journal of Economic Behavior & Organization*.
 1. Qian, P., Amemiya, Y.,  Hwang, Y. (2017). A Structural Equation Method for Modeling Multivariate Data from Computer Experiments: with Application to Data Center Thermal Management. 
 Under revision for *Technometrics*.
