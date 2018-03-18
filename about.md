@@ -30,7 +30,7 @@ __Research Interests__
 
 __Publication__
 1. Hwang, Y., Lu, S. and J. Kim (2018+). Bottom-up estimation and top-down prediction: Solar energy prediction combining information from multiple sources. *Annals of Applied Statistics*, Accepted.
-1. Hwang, Y., Barut, E., and Yeo, K. (2018). [Statistical-physical estimation of pollution emission](http://www3.stat.sinica.edu.tw/preprint/SS-2016-0162_Preprint.pdf). *Statistica Sinica*, **28**, 921-940.
+1. Hwang, Y., Barut, E., and Yeo, K. (2018). [Statistical-physical estimation of pollution emission](http://www3.stat.sinica.edu.tw/statistica/J28N2/J28N217/J28N217.html). *Statistica Sinica*, **28**, 921-940.
 1. Hwang, Y., Wright, S., and Hanlon, B. (2017). [Estimation and Testing Problems in Auditory Neuroscience via Clustering.](http://onlinelibrary.wiley.com/doi/10.1111/biom.12652/full) *Biometrics*,
 **73**, 1010–1017. 
 1. Wright, S., Wallace, E. and Hwang, Y. and Maganti, R.(2016). [Seizure Phenotypes and Sleep–Wake Pattern of Seizures in KCNA1-null Mutant Mice.](http://www.sciencedirect.com/science/article/pii/S1525505015006538) *Epilepsy & Behavior*, **55**, 24–29.

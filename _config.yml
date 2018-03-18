@@ -16,7 +16,7 @@
 title: Youngdeok Hwang
 email: yhwang_at_skku_dot_edu
 description: > # this means to ignore newlines until "baseurl:"
-  This is YD Hwang's public research profile.
+  YD Hwang's public research profile
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: youngdeokhwang
