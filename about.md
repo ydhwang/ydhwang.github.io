@@ -18,7 +18,7 @@ __Employment__
 
 __Education__
 
-[University of Wisconsin - Madison](http://www.wisc.edu), [Madison](http://www.cityofmadison.com), [WI](http://www.wisconsin.gov/)  
+[University of Wisconsin - Madison](http://www.wisc.edu), [Madison](http://www.cityofmadison.com ), [WI](http://www.wisconsin.gov/)  
 * Ph.D., [Statistics](http://www.stat.wisc.edu), 2012.
 * M.S.,  [Statistics](http://www.stat.wisc.edu), 2010.
 
