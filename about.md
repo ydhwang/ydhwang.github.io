@@ -27,6 +27,7 @@ __Research Interests__
 * Design of Experiments
 * Inverse Problems and Uncertainty Quantification
 * Environmental Statistics
+* Reproducible research
 
 __Publication__
 1. Hwang, Y., Lu, S. and J. Kim (2018+). Bottom-up estimation and top-down prediction: Solar energy prediction combining information from multiple sources. *Annals of Applied Statistics*, Accepted.
