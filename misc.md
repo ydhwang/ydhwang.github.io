@@ -10,7 +10,7 @@ __Resources__ \\
 [American Statistical Association](http://www.amstat.org) \\
 [Github](https://github.com/ydhwang) \\
 [pandoc](http://pandoc.org/) \\
-[Google's Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
+[Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
 
 __Collaborators__ \\
 [Emre Barut](http://home.gwu.edu/~barut/) \\
