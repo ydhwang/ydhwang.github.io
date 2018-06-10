@@ -18,7 +18,7 @@ __Employment__
 
 __Education__
 
-[University of Wisconsin - Madison](http://www.wisc.edu), [Madison](http://www.cityofmadison.com), [WI](http://www.wisconsin.gov/)  
+[University of Wisconsin - Madison](http://www.wisc.edu), [Madison](http://www.cityofmadison.com ), [WI](http://www.wisconsin.gov/)  
 * Ph.D., [Statistics](http://www.stat.wisc.edu), 2012.
 * M.S.,  [Statistics](http://www.stat.wisc.edu), 2010.
 
@@ -27,6 +27,7 @@ __Research Interests__
 * Design of Experiments
 * Inverse Problems and Uncertainty Quantification
 * Environmental Statistics
+* Reproducible research
 
 __Publication__
 1. Hwang, Y., Lu, S. and J. Kim (2018+). Bottom-up estimation and top-down prediction: Solar energy prediction combining information from multiple sources. *Annals of Applied Statistics*, Accepted.
@@ -51,7 +52,8 @@ __Reports__
 Under revision for *Technometrics*.
 
 __Research Grants__
-* NRF-2017R1C1B5075436 (2017-2020). 
+* NRF-2017R1C1B5075436 (PI, 2017-2020).
+* NRF-2018M3A9E8021503 (Co-PI, 2018-2022). 
 
 __Patent__
 * Multi-model Blending (US20150347922 A1)
