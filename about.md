@@ -63,8 +63,15 @@ __Patent__
 
 
 __Honors__
-* Career Development Award, Korean International Statistical Society, 2016.
+* [Statistics in Physical Engineering Sciences Award](http://www.amstat.org/ASA/Your-Career/Awards/Statistics-in-Physical-Engineering-Sciences-Award.aspx), [American Statistical Society](http://www.amstat.org), 2018.
+* Career Development Award, [Korean International Statistical Society](https://statkiss.org), 2016.
 * Army Commendation Medal, United States Department of the Army, 2004.
+
+__Membership__
+* [American Statistical Association](http://www.amstat.org) 
+* [Korean International Statistics Society](https://statkiss.org)
+* [Korean Statistical Society](http://www.kss.or.kr) 
+
 
 __Professional Service__
 
