@@ -14,6 +14,7 @@ __Resources__ \\
 
 __Collaborators__ \\
 [Emre Barut](http://home.gwu.edu/~barut/) \\
+[Daegon Cho](http://dlab.kaist.ac.kr) \\
 [Jae Kwang Kim](http://jkim.public.iastate.edu)\\
 [Hang J Kim](http://www.artsci.uc.edu/departments/math/fac_staff.html?eid=kim3h4&thecomp=uceprof)\\
 [Peter Qian](https://uq.wisc.edu) \\
