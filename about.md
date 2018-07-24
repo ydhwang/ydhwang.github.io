@@ -55,8 +55,8 @@ __Teaching__
 * Introduction to Mathematical Statistics (STA2014) 2017F
 * Design and Analysis of Experiments (STA3026) 2018S
 * Design and Analysis of Experiments (STA5031) 2018S
-* Introduction to Statistical Computing (STA2016) 2018F
-* Large Scale Data Management and Visualization (STA3034) 2018F
+* Introduction to Statistical Computing -- with DataCamp (STA2016) 2018F
+* Large Scale Data Management and Visualization -- with DataCamp (STA3034) 2018F
 
 __Research Grants__
 * NRF-2017R1C1B5075436 (PI, 2017-2020).
