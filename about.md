@@ -51,6 +51,13 @@ __Reports__
 1. Qian, P., Amemiya, Y.,  Hwang, Y. (2017). A Structural Equation Method for Modeling Multivariate Data from Computer Experiments: with Application to Data Center Thermal Management. 
 Under revision for *Technometrics*.
 
+__Teaching__
+* Introduction to Mathematical Statistics (STA2014) 2017F
+* Design and Analysis of Experiments (STA3026) 2018S
+* Design and Analysis of Experiments (STA5031) 2018S
+* Introduction to Statistical Computing (STA2016) 2018F
+* Large Scale Data Management and Visualization (STA3034) 2018F
+
 __Research Grants__
 * NRF-2017R1C1B5075436 (PI, 2017-2020).
 * NRF-2018M3A9E8021503 (Co-PI, 2018-2022). 
