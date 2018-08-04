@@ -46,10 +46,12 @@ __Publication__
 1. Wang, F., Hwang, Y., Qian, P. Z. G. and Wang, X. (2010). [A Statistics-Guided Approach to Precise Characterization of Nanowire Morphology.](http://pubs.acs.org/doi/abs/10.1021/nn901530e) *ACS Nano*, **4**, 855–862.
 
 __Reports__
-1. Zhang, Q. and  Hwang, Y. (2017) Exact Knowledge Gradient for Stochastic Computer Model Assisted Optimal Decision Making. Submitted to *Technometrics*.
+1. Hwang, Y., Kim, H., Chang, W., Yeo, K. and Kim, Y. (2018). Bayesian Pollution Source Identification via an Inverse Physics Model. Under revision for *Computational Statistics and Data Analysis.*
+1. Sun, F., Gramacy, R. B., Haaland, B., Lu, S. and Hwang, Y. (2018).
+Synthesizing Simulation and Field Data of Solar Irradiance.  Submitted to *Statistical Analysis and Data Mining*.
+1. Zhang, Q. and  Hwang, Y. (2018). Bayesian Sequential Optimization for Continuous Inputs with Finite Decision Space. Under revision for *Technometrics*.
 1. Cho, D. and  Hwang, Y. and Park, J. (2017).  More Buzz, More Vibes: Impact of Social Media on Concert Distribution. Under revision for  *Journal of Economic Behavior & Organization*.
-1. Qian, P., Amemiya, Y.,  Hwang, Y. (2017). A Structural Equation Method for Modeling Multivariate Data from Computer Experiments: with Application to Data Center Thermal Management. 
-Under revision for *Technometrics*.
+1. Qian, P., Amemiya, Y.,  Hwang, Y. (2017). A Structural Equation Method for Modeling Multivariate Data from Computer Experiments: with Application to Data Center Thermal Management. Under revision for *Technometrics*.
 
 __Teaching__
 * Introduction to Mathematical Statistics (STA2014) 2017F
@@ -78,7 +80,6 @@ __Membership__
 * [American Statistical Association](http://www.amstat.org) 
 * [Korean International Statistics Society](https://statkiss.org)
 * [Korean Statistical Society](http://www.kss.or.kr) 
-
 
 __Professional Service__
 
