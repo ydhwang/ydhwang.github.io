@@ -82,6 +82,7 @@ __Membership__
 * [American Statistical Association](http://www.amstat.org) 
 * [Korean International Statistics Society](https://statkiss.org)
 * [Korean Statistical Society](http://www.kss.or.kr) 
+* [INFORMS](https://www.informs.org) 
 
 __Professional Service__
 
