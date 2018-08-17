@@ -46,14 +46,25 @@ __Publication__
 1. Wang, F., Hwang, Y., Qian, P. Z. G. and Wang, X. (2010). [A Statistics-Guided Approach to Precise Characterization of Nanowire Morphology.](http://pubs.acs.org/doi/abs/10.1021/nn901530e) *ACS Nano*, **4**, 855–862.
 
 __Reports__
-1. Zhang, Q. and  Hwang, Y. (2017) Exact Knowledge Gradient for Stochastic Computer Model Assisted Optimal Decision Making. Submitted to *Technometrics*.
+1. Hwang, Y., Kim, H., Chang, W., Yeo, K. and Kim, Y. (2018). Bayesian Pollution Source Identification via an Inverse Physics Model. Under revision for *Computational Statistics and Data Analysis.* arXiv preprint arXiv:1806.05131.
+1. Yeo, K., Hwang, Y., Liu, X. and Kalagnanam, J. (2018). Development of a Spectral Source Inverse Model by Using Generalized Polynomial Chaos. arXiv preprint arXiv:1801.03009.
+1. Sun, F., Gramacy, R. B., Haaland, B., Lu, S. and Hwang, Y. (2018).
+Synthesizing Simulation and Field Data of Solar Irradiance.  Submitted to *Statistical Analysis and Data Mining*.
+1. Zhang, Q. and  Hwang, Y. (2018). Bayesian Sequential Optimization for Continuous Inputs with Finite Decision Space. Under revision for *Technometrics*.
 1. Cho, D. and  Hwang, Y. and Park, J. (2017).  More Buzz, More Vibes: Impact of Social Media on Concert Distribution. Under revision for  *Journal of Economic Behavior & Organization*.
-1. Qian, P., Amemiya, Y.,  Hwang, Y. (2017). A Structural Equation Method for Modeling Multivariate Data from Computer Experiments: with Application to Data Center Thermal Management. 
-Under revision for *Technometrics*.
+1. Qian, P., Amemiya, Y.,  Hwang, Y. (2017). A Structural Equation Method for Modeling Multivariate Data from Computer Experiments: with Application to Data Center Thermal Management. Under revision for *Technometrics*.
+
+__Teaching__
+* Introduction to Mathematical Statistics (STA2014) 2017F
+* Design and Analysis of Experiments (STA3026) 2018S
+* Design and Analysis of Experiments (STA5031) 2018S
+* Introduction to Statistical Computing -- with DataCamp (STA2016) 2018F
+* Large Scale Data Management and Visualization -- with DataCamp (STA3034) 2018F
 
 __Research Grants__
 * NRF-2017R1C1B5075436 (PI, 2017-2020).
 * NRF-2018M3A9E8021503 (Co-PI, 2018-2022). 
+* KOFAC-2018FBA0007 (Undergraduate Research Program, 2018).
 
 __Patent__
 * Multi-model Blending (US20150347922 A1)
@@ -65,13 +76,12 @@ __Patent__
 __Honors__
 * [Statistics in Physical Engineering Sciences Award](http://www.amstat.org/ASA/Your-Career/Awards/Statistics-in-Physical-Engineering-Sciences-Award.aspx), [American Statistical Society](http://www.amstat.org), 2018.
 * Career Development Award, [Korean International Statistical Society](https://statkiss.org), 2016.
-* Army Commendation Medal, United States Department of the Army, 2004.
+* [Army Commendation Medal](https://en.wikipedia.org/wiki/Commendation_Medal), United States Department of the Army, 2004.
 
 __Membership__
 * [American Statistical Association](http://www.amstat.org) 
 * [Korean International Statistics Society](https://statkiss.org)
 * [Korean Statistical Society](http://www.kss.or.kr) 
-
 
 __Professional Service__
 
