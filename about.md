@@ -64,7 +64,7 @@ __Teaching__
 __Research Grants__
 * NRF-2017R1C1B5075436 (PI, 2017-2020).
 * NRF-2018M3A9E8021503 (Co-PI, 2018-2022). 
-* KOFAC-2018FBA0007 (Undergraduate Research Program, 2018).
+* KOFAC-2018FBA0007 (Undergraduate Research Program, 2018F).
 
 __Patent__
 * Multi-model Blending (US20150347922 A1)
@@ -72,6 +72,8 @@ __Patent__
 * Parameter-dependent model-blending with multi-expert based machine learning and proxy sites (US20170017895 A1)
 * Detection Algorithms for Distributed Emission Sources of Abnormal Events (US20170147927)
 
+__Consulting__
+* Statistical Model Building, IBM T. J. Watson Research Center, Aug 2018 - Present.
 
 __Honors__
 * [Statistics in Physical Engineering Sciences Award](http://www.amstat.org/ASA/Your-Career/Awards/Statistics-in-Physical-Engineering-Sciences-Award.aspx), [American Statistical Society](http://www.amstat.org), 2018.
