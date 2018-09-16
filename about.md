@@ -30,6 +30,7 @@ __Research Interests__
 * Reproducible research
 
 __Publication__
+1. Cho, D. and  Hwang, Y. and Park, J. (2018+).  More Buzz, More Vibes: Impact of Social Media on Concert Distribution. *Journal of Economic Behavior & Organization*, Accepted.
 1. Hwang, Y., Lu, S. and J. Kim (2018+). Bottom-up estimation and top-down prediction: Solar energy prediction combining information from multiple sources. *Annals of Applied Statistics*, Accepted.
 1. Hwang, Y., Barut, E., and Yeo, K. (2018). [Statistical-physical estimation of pollution emission](http://www3.stat.sinica.edu.tw/statistica/J28N2/J28N217/J28N217.html). *Statistica Sinica*, **28**, 921-940.
 1. Hwang, Y., Wright, S., and Hanlon, B. (2017). [Estimation and Testing Problems in Auditory Neuroscience via Clustering.](http://onlinelibrary.wiley.com/doi/10.1111/biom.12652/full) *Biometrics*,
@@ -51,7 +52,6 @@ __Reports__
 1. Sun, F., Gramacy, R. B., Haaland, B., Lu, S. and Hwang, Y. (2018).
 Synthesizing Simulation and Field Data of Solar Irradiance.  Submitted to *Statistical Analysis and Data Mining*.
 1. Zhang, Q. and  Hwang, Y. (2018). Bayesian Sequential Optimization for Continuous Inputs with Finite Decision Space. Under revision for *Technometrics*.
-1. Cho, D. and  Hwang, Y. and Park, J. (2017).  More Buzz, More Vibes: Impact of Social Media on Concert Distribution. Under revision for  *Journal of Economic Behavior & Organization*.
 1. Qian, P., Amemiya, Y.,  Hwang, Y. (2017). A Structural Equation Method for Modeling Multivariate Data from Computer Experiments: with Application to Data Center Thermal Management. Under revision for *Technometrics*.
 
 __Teaching__
