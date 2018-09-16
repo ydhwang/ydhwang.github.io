@@ -47,10 +47,10 @@ __Publication__
 1. Wang, F., Hwang, Y., Qian, P. Z. G. and Wang, X. (2010). [A Statistics-Guided Approach to Precise Characterization of Nanowire Morphology.](http://pubs.acs.org/doi/abs/10.1021/nn901530e) *ACS Nano*, **4**, 855–862.
 
 __Reports__
-1. Hwang, Y., Kim, H., Chang, W., Yeo, K. and Kim, Y. (2018). Bayesian Pollution Source Identification via an Inverse Physics Model. Under revision for *Computational Statistics and Data Analysis.* arXiv preprint arXiv:1806.05131.
+1. Hwang, Y., Kim, H., Chang, W., Yeo, K. and Kim, Y. (2018). Bayesian Pollution Source Identification via an Inverse Physics Model. Under revision for *Computational Statistics and Data Analysis.* 
 1. Yeo, K., Hwang, Y., Liu, X. and Kalagnanam, J. (2018). Development of a Spectral Source Inverse Model by Using Generalized Polynomial Chaos. arXiv preprint arXiv:1801.03009.
 1. Sun, F., Gramacy, R. B., Haaland, B., Lu, S. and Hwang, Y. (2018).
-Synthesizing Simulation and Field Data of Solar Irradiance.  Submitted to *Statistical Analysis and Data Mining*.
+Synthesizing Simulation and Field Data of Solar Irradiance.  Submitted to *Statistical Analysis and Data Mining*. arXiv preprint arXiv:1806.05131.
 1. Zhang, Q. and  Hwang, Y. (2018). Bayesian Sequential Optimization for Continuous Inputs with Finite Decision Space. Under revision for *Technometrics*.
 1. Qian, P., Amemiya, Y.,  Hwang, Y. (2017). A Structural Equation Method for Modeling Multivariate Data from Computer Experiments: with Application to Data Center Thermal Management. Under revision for *Technometrics*.
 
@@ -64,7 +64,7 @@ __Teaching__
 __Research Grants__
 * NRF-2017R1C1B5075436 (PI, 2017-2020).
 * NRF-2018M3A9E8021503 (Co-PI, 2018-2022). 
-* KOFAC-2018FBA0007 (Undergraduate Research Program, 2018).
+* KOFAC-2018FBA0007 (Undergraduate Research Program, 2018F).
 
 __Patent__
 * Multi-model Blending (US20150347922 A1)
@@ -72,6 +72,8 @@ __Patent__
 * Parameter-dependent model-blending with multi-expert based machine learning and proxy sites (US20170017895 A1)
 * Detection Algorithms for Distributed Emission Sources of Abnormal Events (US20170147927)
 
+__Consulting__
+* Statistical Model Building, IBM T. J. Watson Research Center, Aug 2018 - Present.
 
 __Honors__
 * [Statistics in Physical Engineering Sciences Award](http://www.amstat.org/ASA/Your-Career/Awards/Statistics-in-Physical-Engineering-Sciences-Award.aspx), [American Statistical Society](http://www.amstat.org), 2018.
@@ -82,6 +84,7 @@ __Membership__
 * [American Statistical Association](http://www.amstat.org) 
 * [Korean International Statistics Society](https://statkiss.org)
 * [Korean Statistical Society](http://www.kss.or.kr) 
+* [INFORMS](https://www.informs.org) 
 
 __Professional Service__
 
