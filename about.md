@@ -52,6 +52,7 @@ __Reports__
 1. Sun, F., Gramacy, R. B., Haaland, B., Lu, S. and Hwang, Y. (2018).
 Synthesizing Simulation and Field Data of Solar Irradiance.  Submitted to *Statistical Analysis and Data Mining*. arXiv preprint arXiv:1806.05131.
 1. Zhang, Q. and  Hwang, Y. (2018). Bayesian Sequential Optimization for Continuous Inputs with Finite Decision Space. Under revision for *Technometrics*.
+1. Hwang, Y., Lee, E., Cho, D., Zhang, Q. (2018) A Simple Spline-based Multilevel Modeling Approach for Complex Data. 
 1. Qian, P., Amemiya, Y.,  Hwang, Y. (2017). A Structural Equation Method for Modeling Multivariate Data from Computer Experiments: with Application to Data Center Thermal Management. Under revision for *Technometrics*.
 
 __Teaching__
