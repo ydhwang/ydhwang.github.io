@@ -127,4 +127,7 @@ htmltools::includeHTML("analytics.html")
 
 __Miscellaneous__
 
-[Links](links.html) 
+- [Google Scholar profile](https://scholar.google.com/citations?user=pEdCzOQAAAAJ&hl=en)
+- [Github](https://github.com/ydhwang)
+- [Twitter](https://twitter.com/youngdeokhwang)
+- [Links](links.html) 
