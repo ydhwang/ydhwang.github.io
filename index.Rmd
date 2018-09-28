@@ -3,6 +3,16 @@ title: Youngdeok Hwang
 fontsize: 12pt
 ---
 
+<style type="text/css">
+
+body, td {
+   font-size: 15px;
+}
+pre {
+  font-size: 12px
+}
+</style>
+
 __Contact__
 
 - Phone: +82-2-760-0430

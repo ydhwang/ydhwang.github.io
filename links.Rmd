@@ -2,6 +2,16 @@
 title: Links
 ---
 
+<style type="text/css">
+
+body, td {
+   font-size: 15px;
+}
+pre {
+  font-size: 12px
+}
+</style>
+
 __Resources__ 
 
 - [The R Project for Statistical Computing](https://www.r-project.org) 
