@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Now exploring the world"
-date:   2017-06-16 14:49:52 -0400
-categories: statistics
----
-> Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise. 
-    - John Tukey (1915 –- 2000) 
