@@ -1,8 +1,15 @@
 ---
-layout: page
 title: Youngdeok Hwang
+fontsize: 12pt
 ---
-I am an assistant professor at the [Department of Statistics](http://shb.skku.edu/stat/), [Sungkyunkwan University (SKKU)](http://www.skku.edu/eng_home/index.jsp). Before joining SKKU, I worked as a statistician at [IBM TJ Watson Research Center](http://www.research.ibm.com/labs/watson/index.shtml). I'm interested in developing new statistical methodologies for solving problems in industry and engineering -- in the area of design and analysis of computer experiments, remote-sensing technology, wireless sensor networks and IoT. 
+
+__Contact__
+
+- Phone: +82-2-760-0430
+- Email: yhwang_at_skku_dot_edu
+- Mailing: Department of Statistics, 25-2 Sungkyunkwan-ro, Jongno-gu, Seoul, 03063 Korea
+
+<!-- I am an assistant professor at the [Department of Statistics](http://shb.skku.edu/stat/), [Sungkyunkwan University (SKKU)](http://www.skku.edu/eng_home/index.jsp). Before joining SKKU, I worked as a statistician at [IBM TJ Watson Research Center](http://www.research.ibm.com/labs/watson/index.shtml). I'm interested in developing new statistical methodologies for solving problems in industry and engineering -- in the area of design and analysis of computer experiments, remote-sensing technology, wireless sensor networks and IoT.  -->
 
 
 
@@ -107,3 +114,6 @@ Associate editor for [Communications for Statistical Applications and Methods](h
 ```{r, echo=FALSE}
 htmltools::includeHTML("analytics.html")
 ```
+
+__Miscellaneous__
+[Links](links.html) 
