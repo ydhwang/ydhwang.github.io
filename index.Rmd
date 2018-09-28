@@ -116,4 +116,5 @@ htmltools::includeHTML("analytics.html")
 ```
 
 __Miscellaneous__
+
 [Links](links.html) 
