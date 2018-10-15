@@ -117,9 +117,11 @@ __Membership__
 
 __Professional Service__
 
-Referee for _Technometrics, Statistica Sinica, Journal of Nonparametric Statistics, Statistics and Probability Letters, PLOS ONE_.
+Referee for _Technometrics, Statistica Sinica, Journal of Nonparametric Statistics, Statistics and Probability Letters, PLOS ONE, SIAM/ASA Journal on Uncertainty Quantification._
 
-Associate editor for [Communications for Statistical Applications and Methods](http://www.csam.or.kr/main.html). 
+
+* Associate editor for [Applied Stochastic Models in Business and Industry](https://onlinelibrary.wiley.com/journal/15264025). 
+* Associate editor for [Communications for Statistical Applications and Methods](http://www.csam.or.kr/main.html). 
 
 ```{r, echo=FALSE}
 htmltools::includeHTML("analytics.html")
