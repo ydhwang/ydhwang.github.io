@@ -56,7 +56,6 @@ __Publication__
 <<<<<<< HEAD
 1. Hwang, Y., Lu, S. and J. Kim (2018+). Bottom-up Estimation and Top-down Prediction: Solar Energy Prediction Combining Information from Multiple Sources. *Annals of Applied Statistics*, Accepted.
 1. Hwang, Y., Barut, E., and Yeo, K. (2018). [Statistical-physical Estimation of Pollution Emission](http://www3.stat.sinica.edu.tw/statistica/J28N2/J28N217/J28N217.html). *Statistica Sinica*, **28**, 921-940.
-=======
 1. Hwang, Y., Lu, S. and J. Kim (2018+). Bottom-up estimation and top-down prediction: Solar energy prediction combining information from multiple sources. *Annals of Applied Statistics*, To appear.
 1. Hwang, Y., Barut, E., and Yeo, K. (2018). [Statistical-physical estimation of pollution emission](http://www3.stat.sinica.edu.tw/statistica/J28N2/J28N217/J28N217.html). *Statistica Sinica*, **28**, 921-940.
 >>>>>>> 3d7e312c23a830d9327e95fd13f110de3588084b
