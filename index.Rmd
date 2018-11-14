@@ -53,13 +53,13 @@ __Publication__
 
 1. Xu, X., Hwang, Y., Kim, K., Wang, F., Wang, X., Chien, P. (2018+). Sequential Synthesis of Nanomaterials via Level-expansion. *Journal of Quality Technology*, Accepted.
 1. Cho, D. and  Hwang, Y. and Park, J. (2018+). [More Buzz, More Vibes: Impact of Social Media on Concert Distribution](https://doi.org/10.1016/j.jebo.2018.09.012). *Journal of Economic Behavior & Organization*, To appear.
-1. Hwang, Y., Lu, S. and J. Kim (2018+). Bottom-up Estimation and Top-down Prediction: Solar Energy Prediction Combining Information from Multiple Sources. *Annals of Applied Statistics*, Accepted.
+1. Hwang, Y., Lu, S. and J. Kim (2018+). Bottom-up Estimation and Top-down Prediction: Solar Energy Prediction Combining Information from Multiple Sources. *The Annals of Applied Statistics*, Accepted.
 1. Hwang, Y., Barut, E., and Yeo, K. (2018). [Statistical-physical estimation of pollution emission](http://www3.stat.sinica.edu.tw/statistica/J28N2/J28N217/J28N217.html). *Statistica Sinica*, **28**, 921-940.
 1. Hwang, Y., Wright, S., and Hanlon, B. (2017). [Estimation and Testing Problems in Auditory Neuroscience via Clustering.](http://onlinelibrary.wiley.com/doi/10.1111/biom.12652/full) *Biometrics*,
 **73**, 1010–1017. 
 1. Wright, S., Wallace, E. and Hwang, Y. and Maganti, R.(2016). [Seizure Phenotypes and Sleep–Wake Pattern of Seizures in KCNA1-null Mutant Mice.](http://www.sciencedirect.com/science/article/pii/S1525505015006538) *Epilepsy & Behavior*, **55**, 24–29.
 1. Hwang, Y., He, X. and Qian, P. Z. G. (2016). [Sliced Orthogonal Array Based Latin Hypercube Designs.](http://www.tandfonline.com/doi/abs/10.1080/00401706.2014.993092) *Technometrics*, **58**, 50–61.
-1. Liu, X., Yeo, K., Hwang, Y., Singh, J. and Kalagnanam, J. (2016). [A Statistical Modeling Approach for Air Quality Data Based on Physical Dispersion Processes and Its Application to Ozone Modeling.](http://projecteuclid.org/euclid.aoas/1469199892) *Annals of Applied Statistics*, **10**, 756–785.
+1. Liu, X., Yeo, K., Hwang, Y., Singh, J. and Kalagnanam, J. (2016). [A Statistical Modeling Approach for Air Quality Data Based on Physical Dispersion Processes and Its Application to Ozone Modeling.](http://projecteuclid.org/euclid.aoas/1469199892) *The Annals of Applied Statistics*, **10**, 756–785.
 1. Chae, Y. T., Horesh, R., Hwang, Y., Lee, Y. M. (2016). [Artificial Neural Network Model for Forecasting Sub-Hourly Electricity Usage in Commercial Buildings](http://www.sciencedirect.com/science/article/pii/S0378778815304102). *Energy and Buildings*, **111**, 184–194.
 1. Jiang, H., Schörgendorfer, A., Hwang, Y. and Amemiya, Y. (2015). [A Practical Approach to Spatio-Temporal Analysis.](http://www.jstor.org/stable/24311021) *Statistica Sinica*, **25**, 369-384.
 1. Wright, S., Hwang, Y., and Oertel, D. (2014). [Synaptic Transmission between End bulbs of Held and Bushy Cells in the Cochlear Nucleus of Mice with a Mutation in Otoferlin.](http://jn.physiology.org/content/112/12/3173) *Journal of Neurophysiology*, **112**, 3173–3188.
