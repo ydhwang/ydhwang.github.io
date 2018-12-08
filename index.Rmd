@@ -53,7 +53,7 @@ __Publication__
 
 1. Hwang, Y., Kim, H., Chang, W., Yeo, K. and Kim, Y. (2018+). Bayesian Pollution Source Identification via an Inverse Physics Model.  *Computational Statistics and Data Analysis*, Accepted.
 1. Xu, X., Hwang, Y., Kim, K., Wang, F., Wang, X., Chien, P. (2018+). Sequential Synthesis of Nanomaterials via Level-expansion. *Journal of Quality Technology*, Accepted.
-1. Cho, D. and  Hwang, Y. and Park, J. (2018+). [More Buzz, More Vibes: Impact of Social Media on Concert Distribution](https://doi.org/10.1016/j.jebo.2018.09.012). *Journal of Economic Behavior & Organization*,  Accepted.
+1. Cho, D. and  Hwang, Y. and Park, J. (2018+). [More Buzz, More Vibes: Impact of Social Media on Concert Distribution](https://doi.org/10.1016/j.jebo.2018.09.012). *Journal of Economic Behavior & Organization*, **156**, 103-113.
 1. Hwang, Y., Lu, S. and J. Kim (2018). [Bottom-up Estimation and Top-down Prediction: Solar Energy Prediction Combining Information from Multiple Sources](http://dx.doi.org/10.1214/18-AOAS1145). *Annals of Applied Statistics*, **12**, 2096-2120. 
 1. Hwang, Y., Barut, E., and Yeo, K. (2018). [Statistical-physical estimation of pollution emission](http://www3.stat.sinica.edu.tw/statistica/J28N2/J28N217/J28N217.html). *Statistica Sinica*, **28**, 921-940.
 1. Hwang, Y., Wright, S., and Hanlon, B. (2017). [Estimation and Testing Problems in Auditory Neuroscience via Clustering.](http://onlinelibrary.wiley.com/doi/10.1111/biom.12652/full) *Biometrics*,
