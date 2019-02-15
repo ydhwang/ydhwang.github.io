@@ -13,17 +13,13 @@ pre {
 }
 </style>
 
-__Contact__
-
-- Phone: +82-2-760-0430
-- Email: yhwang_at_skku_dot_edu
-- Mailing: Department of Statistics, 25-2 Sungkyunkwan-ro, Jongno-gu, Seoul, 03063 Korea
+yhwang_at_skku_dot_edu / Department of Statistics, 25-2 Sungkyunkwan-ro, Jongno-gu, Seoul, 03063 Korea
 
 <!-- I am an assistant professor at the [Department of Statistics](http://shb.skku.edu/stat/), [Sungkyunkwan University (SKKU)](http://www.skku.edu/eng_home/index.jsp). Before joining SKKU, I worked as a statistician at [IBM TJ Watson Research Center](http://www.research.ibm.com/labs/watson/index.shtml). I'm interested in developing new statistical methodologies for solving problems in industry and engineering -- in the area of design and analysis of computer experiments, remote-sensing technology, wireless sensor networks and IoT.  -->
 
 
 
-__Employment__
+### Employment
 
 [Department of Statistics, Sungkyunkwan University (SKKU)](http://www.skku.edu/eng_home/index.jsp), Seoul, Korea
 
@@ -34,14 +30,14 @@ __Employment__
 - Research Staff Member.  Mar 2014 - Aug 2017 
 - Postdoctoral Researcher. Sep 2012  - Feb 2014
 
-__Education__
+### Education
 
 [University of Wisconsin - Madison](http://www.wisc.edu), [Madison](http://www.cityofmadison.com ), [WI](http://www.wisconsin.gov/)  
 
 - Ph.D., [Statistics](http://www.stat.wisc.edu), 2012.
 - M.S.,  [Statistics](http://www.stat.wisc.edu), 2010.
 
-__Research Interests__
+### Research Interests
 
 * Analytics in Technology, Business and Service
 * Inverse Problems and Uncertainty Quantification
@@ -49,28 +45,34 @@ __Research Interests__
 * Design of Experiments
 
 
-__Publication__
+### Publication
 
-1. Hwang, Y., Kim, H., Chang, W., Yeo, K. and Kim, Y. (2019+). [Bayesian Pollution Source Identification via an Inverse Physics Model](https://www.sciencedirect.com/science/article/pii/S0167947318302822).  *Computational Statistics and Data Analysis*, Accepted.
+#### Statistics Journals
 1. Xu, X., Hwang, Y., Kim, K., Wang, F., Wang, X., Chien, P. (2019+). Sequential Synthesis of Nanomaterials via Level-expansion. *Journal of Quality Technology*, Accepted.
-1. Yeo, K., Hwang, Y., Liu, X. and Kalagnanam, J. (2019). [Development of *hp*-inverse model by using generalized polynomial chaos.](https://www.sciencedirect.com/science/article/pii/S0045782518306212?dgcid=author) *Computer Methods in Applied Mechanics and Engineering,* **347**, 1-20.
-1. Cho, D. and  Hwang, Y. and Park, J. (2018). [More Buzz, More Vibes: Impact of Social Media on Concert Distribution](https://doi.org/10.1016/j.jebo.2018.09.012). *Journal of Economic Behavior & Organization*, **156**, 103-113.
+1. Hwang, Y., Kim, H., Chang, W., Yeo, K. and Kim, Y. (2019). [Bayesian Pollution Source Identification via an Inverse Physics Model](https://www.sciencedirect.com/science/article/pii/S0167947318302822).  *Computational Statistics and Data Analysis*, **134**, 76-92.
 1. Hwang, Y., Lu, S. and J. Kim (2018). [Bottom-up Estimation and Top-down Prediction: Solar Energy Prediction Combining Information from Multiple Sources](http://dx.doi.org/10.1214/18-AOAS1145). *Annals of Applied Statistics*, **12**, 2096-2120. 
 1. Hwang, Y., Barut, E., and Yeo, K. (2018). [Statistical-physical estimation of pollution emission](http://www3.stat.sinica.edu.tw/statistica/J28N2/J28N217/J28N217.html). *Statistica Sinica*, **28**, 921-940.
 1. Hwang, Y., Wright, S., and Hanlon, B. (2017). [Estimation and Testing Problems in Auditory Neuroscience via Clustering.](http://onlinelibrary.wiley.com/doi/10.1111/biom.12652/full) *Biometrics*,
 **73**, 1010–1017. 
-1. Wright, S., Wallace, E. and Hwang, Y. and Maganti, R. (2016). [Seizure Phenotypes and Sleep–Wake Pattern of Seizures in KCNA1-null Mutant Mice.](http://www.sciencedirect.com/science/article/pii/S1525505015006538) *Epilepsy & Behavior*, **55**, 24–29.
 1. Hwang, Y., He, X. and Qian, P. Z. G. (2016). [Sliced Orthogonal Array Based Latin Hypercube Designs.](http://www.tandfonline.com/doi/abs/10.1080/00401706.2014.993092) *Technometrics*, **58**, 50–61.
 1. Liu, X., Yeo, K., Hwang, Y., Singh, J. and Kalagnanam, J. (2016). [A Statistical Modeling Approach for Air Quality Data Based on Physical Dispersion Processes and Its Application to Ozone Modeling.](http://projecteuclid.org/euclid.aoas/1469199892) *The Annals of Applied Statistics*, **10**, 756–785.
-1. Chae, Y. T., Horesh, R., Hwang, Y., Lee, Y. M. (2016). [Artificial Neural Network Model for Forecasting Sub-Hourly Electricity Usage in Commercial Buildings](http://www.sciencedirect.com/science/article/pii/S0378778815304102). *Energy and Buildings*, **111**, 184–194.
 1. Jiang, H., Schörgendorfer, A., Hwang, Y. and Amemiya, Y. (2015). [A Practical Approach to Spatio-Temporal Analysis.](http://www.jstor.org/stable/24311021) *Statistica Sinica*, **25**, 369-384.
-1. Wright, S., Hwang, Y., and Oertel, D. (2014). [Synaptic Transmission between End bulbs of Held and Bushy Cells in the Cochlear Nucleus of Mice with a Mutation in Otoferlin.](http://jn.physiology.org/content/112/12/3173) *Journal of Neurophysiology*, **112**, 3173–3188.
+
 1. Qian, P. Z. G., Ai, M., Hwang, Y., and Su, H. (2014). [Asymmetric Nested Lattice Samples.](http://www.tandfonline.com/doi/abs/10.1080/00401706.2013.800002) *Technometrics*, **56**, 46–54.
+
+
+#### Collaborative 
+
+1. Yeo, K., Hwang, Y., Liu, X. and Kalagnanam, J. (2019). [Development of *hp*-inverse model by using generalized polynomial chaos.](https://www.sciencedirect.com/science/article/pii/S0045782518306212?dgcid=author) *Computer Methods in Applied Mechanics and Engineering,* **347**, 1-20.
+1. Cho, D. and  Hwang, Y. and Park, J. (2018). [More Buzz, More Vibes: Impact of Social Media on Concert Distribution](https://doi.org/10.1016/j.jebo.2018.09.012). *Journal of Economic Behavior & Organization*, **156**, 103-113.
+1. Wright, S., Wallace, E. and Hwang, Y. and Maganti, R. (2016). [Seizure Phenotypes and Sleep–Wake Pattern of Seizures in KCNA1-null Mutant Mice.](http://www.sciencedirect.com/science/article/pii/S1525505015006538) *Epilepsy & Behavior*, **55**, 24–29.
+1. Chae, Y. T., Horesh, R., Hwang, Y., Lee, Y. M. (2016). [Artificial Neural Network Model for Forecasting Sub-Hourly Electricity Usage in Commercial Buildings](http://www.sciencedirect.com/science/article/pii/S0378778815304102). *Energy and Buildings*, **111**, 184–194.
+1. Wright, S., Hwang, Y., and Oertel, D. (2014). [Synaptic Transmission between End bulbs of Held and Bushy Cells in the Cochlear Nucleus of Mice with a Mutation in Otoferlin.](http://jn.physiology.org/content/112/12/3173) *Journal of Neurophysiology*, **112**, 3173–3188.
 1. Hong, B., Ko, Y., Kim, J., Ok, E., Hwang, Y. and Kim, H. (2013). [Sternocleidomastoid Ultrasonography Data for Muscular Torticollis in Infants.](http://onlinelibrary.wiley.com/doi/10.1002/mus.23712/full) *Muscle & Nerve*, **48**, 100- 104.
 1. Chung, H., Kong, E., Edwards, J., Weismer, G., Fourakis, M. and Hwang, Y. (2012). [Cross-linguistic Studies of Children’s and Adults’ Vowel Spaces.](http://asa.scitation.org/doi/abs/10.1121/1.3651823) *The Journal of the Acoustical Society of America*. **131**, 442–454.
 1. Wang, F., Hwang, Y., Qian, P. Z. G. and Wang, X. (2010). [A Statistics-Guided Approach to Precise Characterization of Nanowire Morphology.](http://pubs.acs.org/doi/abs/10.1021/nn901530e) *ACS Nano*, **4**, 855–862.
 
-__Reports__
+### Reports
 
 1. Sun, F., Gramacy, R. B., Haaland, B., Lu, S. and Hwang, Y. (2018).
 Synthesizing Simulation and Field Data of Solar Irradiance.  Submitted to *Statistical Analysis and Data Mining*. arXiv:1806.05131.
@@ -78,45 +80,46 @@ Synthesizing Simulation and Field Data of Solar Irradiance.  Submitted to *Stati
 1. Hwang, Y., Lee, E., Cho, D., Zhang, Q. (2018) A Simple Approach for Complex Data Using Spline-based Multilevel Model. 
 1. Qian, P., Amemiya, Y.,  Hwang, Y. (2017). A Structural Equation Method for Modeling Multivariate Data from Computer Experiments: with Application to Data Center Thermal Management. Under revision for *Technometrics*.
 
-__Teaching__
+### Teaching
 
 * Introduction to Mathematical Statistics (STA2014) 2017F
 * Design of Experiments (STA3026) 2018S
 * Design and Analysis of Experiments (STA5031) 2018S
-* Introduction to Statistical Computing -- with DataCamp (STA2016) 2018F
+* Introduction to Statistical Computing -- with DataCamp (STA2016) 2018F, 2019S
 * Large Scale Data Management and Visualization -- with DataCamp (STA3034) 2018F
+* Statistical Consulting -- with DataCamp (STA5034) 2019S
 
-__Research Grants__
+### Research Grants
 
 * NRF-2017R1C1B5075436 (PI, 2017-2020).
 * NRF-2018M3A9E8021503 (Co-PI, 2018-2022). 
 * KOFAC-2018FBA0007 (Undergraduate Research Program, 2018F).
 
-__Patent__
+### Patent
 
 * Multi-model Blending (US20150347922 A1)
 * Building Energy Consumption Forecasting Procedure Using Ambient Temperature, Enthalpy, Bias Corrected Weather Forecast and Outlier  Corrected Sensor Data (US20150331023)
 * Parameter-dependent model-blending with multi-expert based machine learning and proxy sites (US20170017895 A1)
 * Detection Algorithms for Distributed Emission Sources of Abnormal Events (US20170147927)
 
-__Consulting__
+### Consulting
 
 * Statistical Model Building, IBM T. J. Watson Research Center, Aug 2018 - Present.
 
-__Honors__
+### Honors
 
 * [Statistics in Physical Engineering Sciences Award](http://www.amstat.org/ASA/Your-Career/Awards/Statistics-in-Physical-Engineering-Sciences-Award.aspx), [American Statistical Society](http://www.amstat.org), 2018.
 * Career Development Award, [Korean International Statistical Society](https://statkiss.org), 2016.
 * [Army Commendation Medal](https://en.wikipedia.org/wiki/Commendation_Medal), United States Department of the Army, 2004.
 
-__Membership__
+### Membership
 
 * [American Statistical Association](http://www.amstat.org) 
 * [Korean International Statistics Society](https://statkiss.org)
 * [Korean Statistical Society](http://www.kss.or.kr) 
 * [INFORMS](https://www.informs.org) 
 
-__Professional Service__
+### Professional Service
 
 Associate editor for [Applied Stochastic Models in Business and Industry](https://onlinelibrary.wiley.com/journal/15264025).
 <!-- and [Communications for Statistical Applications and Methods](http://www.csam.or.kr/main.html).  -->
@@ -128,7 +131,7 @@ Referee for _Technometrics, Statistica Sinica, Journal of Nonparametric Statisti
 htmltools::includeHTML("analytics.html")
 ```
 
-__Miscellaneous__
+### Miscellaneous
 
 - [Google Scholar profile](https://scholar.google.com/citations?user=pEdCzOQAAAAJ&hl=en)
 - [Github](https://github.com/ydhwang)
