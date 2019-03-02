@@ -45,6 +45,14 @@ yhwang_at_skku_dot_edu / Department of Statistics, 25-2 Sungkyunkwan-ro, Jongno-
 * Design of Experiments
 
 
+
+### Honors
+
+* [Statistics in Physical Engineering Sciences Award](http://www.amstat.org/ASA/Your-Career/Awards/Statistics-in-Physical-Engineering-Sciences-Award.aspx), [American Statistical Society](http://www.amstat.org), 2018.
+* Career Development Award, [Korean International Statistical Society](https://statkiss.org), 2016.
+* [Army Commendation Medal](https://en.wikipedia.org/wiki/Commendation_Medal), United States Department of the Army, 2004.
+
+
 ### Publication
 
 #### Statistics Journals
@@ -72,6 +80,7 @@ yhwang_at_skku_dot_edu / Department of Statistics, 25-2 Sungkyunkwan-ro, Jongno-
 1. Chung, H., Kong, E., Edwards, J., Weismer, G., Fourakis, M. and Hwang, Y. (2012). [Cross-linguistic Studies of Children’s and Adults’ Vowel Spaces.](http://asa.scitation.org/doi/abs/10.1121/1.3651823) *The Journal of the Acoustical Society of America*. **131**, 442–454.
 1. Wang, F., Hwang, Y., Qian, P. Z. G. and Wang, X. (2010). [A Statistics-Guided Approach to Precise Characterization of Nanowire Morphology.](http://pubs.acs.org/doi/abs/10.1021/nn901530e) *ACS Nano*, **4**, 855–862.
 
+
 ### Reports
 
 1. Sun, F., Gramacy, R. B., Haaland, B., Lu, S. and Hwang, Y. (2018).
@@ -89,6 +98,17 @@ Synthesizing Simulation and Field Data of Solar Irradiance.  Submitted to *Stati
 * Large Scale Data Management and Visualization -- with DataCamp (STA3034) 2018F
 * Statistical Consulting -- with DataCamp (STA5034) 2019S
 
+### Selected Presentations
+ 
+* Department of Statistics, Chung-Ang  University, Seoul, Korea. 2018. 
+* Department of Statistics, Seoul National University, Seoul, Korea. 2018. 
+* Tutorial on Industrial Statistics, International Conference on Consumer Electronics Asia. Jeju, Korea. 2018.
+* The 2nd Pacific Rim Statistical Conference for Production Engineering, Seoul, Korea. 2016. 
+* Department of Statistics, Korea University, Seoul, Korea. 2016. 
+* Department of Industrial & System Engineering, KAIST, Daejeon, Korea. 2015.
+* H. Milton Stewart School of Industrial & Systems Engineering, Georgia Institute of Technology, Atlanta, GA. 2015.
+* Department of Industrial and Management Engineering, POSTECH. Pohang, Korea. 2014.
+
 ### Research Grants
 
 * NRF-2017R1C1B5075436 (PI, 2017-2020).
@@ -102,15 +122,10 @@ Synthesizing Simulation and Field Data of Solar Irradiance.  Submitted to *Stati
 * Parameter-dependent model-blending with multi-expert based machine learning and proxy sites (US20170017895 A1)
 * Detection Algorithms for Distributed Emission Sources of Abnormal Events (US20170147927)
 
-### Consulting
+<!-- ### Consulting -->
 
-* Statistical Model Building, IBM T. J. Watson Research Center, Aug 2018 - Present.
+<!-- * Statistical Model Building, IBM T. J. Watson Research Center, Aug 2018 - Present. -->
 
-### Honors
-
-* [Statistics in Physical Engineering Sciences Award](http://www.amstat.org/ASA/Your-Career/Awards/Statistics-in-Physical-Engineering-Sciences-Award.aspx), [American Statistical Society](http://www.amstat.org), 2018.
-* Career Development Award, [Korean International Statistical Society](https://statkiss.org), 2016.
-* [Army Commendation Medal](https://en.wikipedia.org/wiki/Commendation_Medal), United States Department of the Army, 2004.
 
 ### Membership
 
@@ -137,3 +152,4 @@ htmltools::includeHTML("analytics.html")
 - [Github](https://github.com/ydhwang)
 - [Twitter](https://twitter.com/youngdeokhwang)
 - [Links](links.html) 
+
