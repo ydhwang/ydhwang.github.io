@@ -56,7 +56,9 @@ yhwang_at_skku_dot_edu / Department of Statistics, 25-2 Sungkyunkwan-ro, Jongno-
 ### Publication
 
 #### Statistics Journals
-1. Xu, X., Hwang, Y., Kim, K., Wang, F., Wang, X., Chien, P. (2019+). Sequential Synthesis of Nanomaterials via Level-expansion. *Journal of Quality Technology*, Accepted.
+1. Sun, F., Gramacy, R. B., Haaland, B., Lu, S. and Hwang, Y. (2019+).
+Synthesizing Simulation and Field Data of Solar Irradiance. *Statistical Analysis and Data Mining*, to appear, preprint on [arXiv:1806.05131](https://arxiv.org/abs/1806.05131).
+1. Xu, X., Hwang, Y., Kim, K., Wang, F., Wang, X., Chien, P. (2019+). Sequential Synthesis of Nanomaterials via Level-expansion. *Journal of Quality Technology*, to appear.
 1. Hwang, Y., Kim, H., Chang, W., Yeo, K. and Kim, Y. (2019). [Bayesian Pollution Source Identification via an Inverse Physics Model](https://www.sciencedirect.com/science/article/pii/S0167947318302822).  *Computational Statistics and Data Analysis*, **134**, 76-92.
 1. Hwang, Y., Lu, S. and J. Kim (2018). [Bottom-up Estimation and Top-down Prediction: Solar Energy Prediction Combining Information from Multiple Sources](http://dx.doi.org/10.1214/18-AOAS1145). *Annals of Applied Statistics*, **12**, 2096-2120. 
 1. Hwang, Y., Barut, E., and Yeo, K. (2018). [Statistical-physical estimation of pollution emission](http://www3.stat.sinica.edu.tw/statistica/J28N2/J28N217/J28N217.html). *Statistica Sinica*, **28**, 921-940.
@@ -82,8 +84,6 @@ yhwang_at_skku_dot_edu / Department of Statistics, 25-2 Sungkyunkwan-ro, Jongno-
 
 ### Reports
 
-1. Sun, F., Gramacy, R. B., Haaland, B., Lu, S. and Hwang, Y. (2018).
-Synthesizing Simulation and Field Data of Solar Irradiance.  Submitted to *Statistical Analysis and Data Mining*. arXiv:1806.05131.
 1. Zhang, Q. and  Hwang, Y. (2018). Bayesian Sequential Optimization for Continuous Inputs with Finite Decision Space. Revision submitted for *Technometrics*.
 1. Hwang, Y., Lee, E., Cho, D., Zhang, Q. (2018) A Simple Approach for Complex Data Using Spline-based Multilevel Model. 
 1. Qian, P., Amemiya, Y.,  Hwang, Y. (2017). A Structural Equation Method for Modeling Multivariate Data from Computer Experiments: with Application to Data Center Thermal Management. Under revision for *Technometrics*.
