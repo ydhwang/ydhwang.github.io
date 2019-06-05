@@ -73,6 +73,8 @@ yhwang_at_skku_dot_edu / Department of Statistics, 25-2 Sungkyunkwan-ro, Jongno-
 
 #### Collaborative 
 
+1. Lee, H. Kim, E., Baek, D., Hwang, Y., Kim, J., Lim, S., Sul, B. and Hong, B. 
+The Role of Regular Physical Therapy on Spasticity in Children with Cerebral Palsy. *Annals of Rehabilitation Medicine*, **43**, 1-8.
 1. Yeo, K., Hwang, Y., Liu, X. and Kalagnanam, J. (2019). [Development of *hp*-inverse Model by Using Generalized Polynomial Chaos.](https://www.sciencedirect.com/science/article/pii/S0045782518306212?dgcid=author) *Computer Methods in Applied Mechanics and Engineering,* **347**, 1-20.
 1. Cho, D. and  Hwang, Y. and Park, J. (2018). [More Buzz, More Vibes: Impact of Social Media on Concert Distribution](https://doi.org/10.1016/j.jebo.2018.09.012). *Journal of Economic Behavior & Organization*, **156**, 103-113.
 1. Wright, S., Wallace, E. and Hwang, Y. and Maganti, R. (2016). [Seizure Phenotypes and Sleep–Wake Pattern of Seizures in KCNA1-null Mutant Mice.](http://www.sciencedirect.com/science/article/pii/S1525505015006538) *Epilepsy & Behavior*, **55**, 24–29.
