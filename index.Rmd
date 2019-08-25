@@ -62,8 +62,8 @@ Zicklin School of Business, Baruch College, CUNY\
 
 #### Statistics Journals
 1. Zhang, Q. and  Hwang, Y. (2019+). Sequential Model-based Optimization for Continuous Inputs with Finite Decision Space. *Technometrics*. to appear.
-1. Sun, F., Gramacy, R. B., Haaland, B., Lu, S. and Hwang, Y. (2019+).
-[Synthesizing Simulation and Field Data of Solar Irradiance](https://onlinelibrary.wiley.com/doi/full/10.1002/sam.11414). *Statistical Analysis and Data Mining*, to appear, preprint on [arXiv:1806.05131](https://arxiv.org/abs/1806.05131).
+1. Sun, F., Gramacy, R. B., Haaland, B., Lu, S. and Hwang, Y. (2019).
+[Synthesizing Simulation and Field Data of Solar Irradiance](https://onlinelibrary.wiley.com/doi/full/10.1002/sam.11414). *Statistical Analysis and Data Mining*, **12**, 311-324. preprint on [arXiv:1806.05131](https://arxiv.org/abs/1806.05131).
 1. Xu, X., Hwang, Y., Kim, T., Wang, F., Wang, X., Chien, P. (2019+). [Level-expansion: A Statistical Sequential Design Methodology with Application to Nanomaterial Synthesis](https://www.tandfonline.com/doi/full/10.1080/00224065.2019.1571335). *Journal of Quality Technology*, to appear.
 1. Hwang, Y., Kim, H., Chang, W., Yeo, K. and Kim, Y. (2019). [Bayesian Pollution Source Identification via an Inverse Physics Model](https://www.sciencedirect.com/science/article/pii/S0167947318302822).  *Computational Statistics and Data Analysis*, **134**, 76-92.
 1. Hwang, Y., Lu, S. and J. Kim (2018). [Bottom-up Estimation and Top-down Prediction: Solar Energy Prediction Combining Information from Multiple Sources](http://dx.doi.org/10.1214/18-AOAS1145). *Annals of Applied Statistics*, **12**, 2096-2120. 
