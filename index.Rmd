@@ -14,6 +14,7 @@ pre {
 </style>
 
 yhwang_at_baruch_cuny_dot_edu\
+646-312-3411\
 Paul H. Chook Department of Information System and Statistics\
 Zicklin School of Business, Baruch College, CUNY\
 1 Bernad Baruch Way, New York, NY 10010
@@ -97,12 +98,16 @@ Zicklin School of Business, Baruch College, CUNY\
 
 ### Teaching
 
-* Introduction to Mathematical Statistics (STA2014) 2017F
-* Design of Experiments (STA3026) 2018S
-* Design and Analysis of Experiments (STA5031) 2018S
-* Introduction to Statistical Computing -- with DataCamp (STA2016) 2018F, 2019S
-* Large Scale Data Management and Visualization -- with DataCamp (STA3034) 2018F
+##### At Baruch College
+* Multivariate Statistics for Business Analytics -- with DataCamp (STA9661) 2019F
+
+##### At SKKU
 * Statistical Consulting -- with DataCamp (STA5034) 2019S
+* Large Scale Data Management and Visualization -- with DataCamp (STA3034) 2018F
+* Introduction to Statistical Computing -- with DataCamp (STA2016) 2018F, 2019S
+* Design and Analysis of Experiments (STA5031) 2018S
+* Design of Experiments (STA3026) 2018S
+* Introduction to Mathematical Statistics (STA2014) 2017F
 
 ### Selected Presentations
  
