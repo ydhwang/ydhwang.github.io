@@ -14,10 +14,10 @@ pre {
 </style>
 
 yhwang_at_baruch_cuny_dot_edu\
-646-312-3411\
 Paul H. Chook Department of Information System and Statistics\
 Zicklin School of Business, Baruch College, CUNY\
-1 Bernad Baruch Way, New York, NY 10010
+1 Bernad Baruch Way, New York, NY 10010\
++1 646-312-3411\
 
 <!-- I am an assistant professor at the [Department of Statistics](http://shb.skku.edu/stat/), [Sungkyunkwan University (SKKU)](http://www.skku.edu/eng_home/index.jsp). Before joining SKKU, I worked as a statistician at [IBM TJ Watson Research Center](http://www.research.ibm.com/labs/watson/index.shtml). I'm interested in developing new statistical methodologies for solving problems in industry and engineering -- in the area of design and analysis of computer experiments, remote-sensing technology, wireless sensor networks and IoT.  -->
 
