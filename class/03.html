@@ -532,7 +532,7 @@ x</code></pre>
 <pre class="r"><code>q</code></pre>
 <pre><code>## function (save = &quot;default&quot;, status = 0, runLast = TRUE) 
 ## .Internal(quit(save, status, runLast))
-## &lt;bytecode: 0x7fb173336510&gt;
+## &lt;bytecode: 0x7f820099c900&gt;
 ## &lt;environment: namespace:base&gt;</code></pre>
 </div>
 <div id="help" class="section level2">
@@ -566,6 +566,197 @@ A[1, 1]</code></pre>
 <pre class="r"><code>A[, 2]</code></pre>
 <pre><code>## [1] 2 4</code></pre>
 <p>Notice that <code>A</code> is a matrix, <code>A[1, ]</code> is a (numeric) vector. (We will learn what <code>numeric</code> vector means later.)</p>
+<hr />
+<p>Matrix can be used by combining vectors: by rows and columns.</p>
+<pre class="r"><code>vec_1 &lt;- c(1, 3, 5)
+vec_2 &lt;- c(4, 6, 8)</code></pre>
+<pre class="r"><code># by row
+rbind(vec_1, vec_2)</code></pre>
+<pre><code>##       [,1] [,2] [,3]
+## vec_1    1    3    5
+## vec_2    4    6    8</code></pre>
+<pre class="r"><code># by cols
+cbind(vec_1, vec_2)</code></pre>
+<pre><code>##      vec_1 vec_2
+## [1,]     1     4
+## [2,]     3     6
+## [3,]     5     8</code></pre>
+</div>
+<div id="lets-try-something-more-complicated-now" class="section level2">
+<h2>Let’s try something more complicated now</h2>
+<ul>
+<li>Download the <code>boys_shoes.csv</code> from classroom and save on your local machine somewhere.
+<ul>
+<li>Open the file and examine how it looks like.</li>
+</ul></li>
+<li>Let’s run the following line (we will learn more later) in R and see what is happening.</li>
+</ul>
+<pre class="r"><code>boys &lt;- read.csv(file.choose(), header=TRUE)
+boys</code></pre>
+</div>
+<div id="boys-shoes-example" class="section level2">
+<h2>Boys’ shoes example</h2>
+<pre><code>##    boy matA sideA matB sideB
+## 1    1 13.2     L 14.0     R
+## 2    2  8.2     L  8.8     R
+## 3    3 10.9     R 11.2     L
+## 4    4 14.3     L 14.2     R
+## 5    5 10.7     R 11.8     L
+## 6    6  6.6     L  6.4     R
+## 7    7  9.5     L  9.8     R
+## 8    8 10.8     L 11.3     R
+## 9    9  8.8     R  9.3     L
+## 10  10 13.3     L 13.6     R</code></pre>
+<ul>
+<li>The amount of wear of the soles of shoes worn by 10 boys.</li>
+<li>The shoe soles were made of two different materials: standard (A) and a cheaper (B).</li>
+</ul>
+</div>
+<div id="what-did-we-do" class="section level2">
+<h2>What did we do?</h2>
+<ul>
+<li>We <code>read</code> the <code>boys_shoes.csv</code> data file into R using <code>read.csv</code> <strong>function</strong>.</li>
+<li>function: “a relationship or expression involving one or more variables.”
+<ul>
+<li>Input - output relationship: you put something in it, it gives you something out.</li>
+<li>For example, <span class="math inline">\(y = x^2\)</span> is a function; if you feed <span class="math inline">\(x=2\)</span>, it returns <span class="math inline">\(y=4\)</span>.</li>
+<li>So it maps your variables into a desired outcome.</li>
+<li>it takes certain arguments as options; e.g., <code>header=TRUE</code>.</li>
+</ul></li>
+<li><code>file.choose</code> is another function, which tells <code>read.csv</code> that we will choose the file location in the diaglogue box.</li>
+<li>Similarly, we defined <code>boys</code> by using <code>boys &lt;- read.csv(choose(), header=FALSE)</code></li>
+</ul>
+</div>
+<div id="working-directory" class="section level2">
+<h2>Working Directory</h2>
+<ul>
+<li>Working directory: A directory of a hierarchical file system associated with your work process.</li>
+<li>Once you define the working directory, you can access files in the working directory without specifying its path.</li>
+<li><code>getwd()</code> returns current working directory.</li>
+<li><code>setwd</code> sets the working directory.</li>
+</ul>
+<pre class="r"><code>setwd(&quot;~/Dropbox/teaching/STA9661/2019F/lecture&quot;)</code></pre>
+<ul>
+<li>You may want to set up your keyboard shortcut for <em>Set Working Directory to Current Document’s Directory</em>.</li>
+</ul>
+</div>
+<div id="path" class="section level2">
+<h2>Path</h2>
+<ul>
+<li>on a Unix file system it’s <code>/</code> (Linux or OS X)</li>
+<li>on a web serer it’s again <code>/</code></li>
+<li>on Windows it’s either <code>\</code> (for the current disk) or <code>D:\ (system-wide)</code></li>
+<li>Relative paths are recommended in general, because you never know what environment in which your code will be run.
+<ul>
+<li><code>./file.php</code> (the file is in the current folder. The same as just file.php)</li>
+<li><code>images/picture.jpg</code> (the file is in the images folder that is in the current directory)</li>
+<li><code>../file.php</code> (file is in the folder that is one level higher than the current directory)</li>
+<li><code>../../file.php</code> (file is in the folder that is two levels higher than the current directory)</li>
+</ul></li>
+</ul>
+</div>
+<div id="naming-objects" class="section level2">
+<h2>Naming objects</h2>
+<ul>
+<li>The name should represent what it <em>contains</em> – choose the names that are concise and meaningful.</li>
+</ul>
+<pre class="r"><code># Good
+day_one
+
+# Bad
+first_day_of_the_month
+djm1</code></pre>
+<ul>
+<li>Do not use likes of <code>abc</code>, <code>mydata</code>, <code>temp</code>, or <code>dat1</code>.</li>
+<li>Technically you can use whatever you use, such as <code>poop &lt;- 3</code> but the names become very important when you are doing something complicated; and it is important to pick up good habits at the beginning.</li>
+</ul>
+</div>
+<div id="data-frame" class="section level2">
+<h2>Data frame</h2>
+<ul>
+<li>You may have noticed that <code>boys</code> is a special form of matrix (rows-and- columns structure).</li>
+<li>A data frame is like a matrix, with a two-dimensional rows-and- columns structure.
+<ul>
+<li>However, it differs from a matrix in that each column may have a different mode.</li>
+<li>For instance, one column may consist of numbers, and another column might have character strings.</li>
+</ul></li>
+</ul>
+</div>
+<div id="revisiting-matrix" class="section level2">
+<h2>Revisiting matrix</h2>
+<p>Let’s quickly check what happens if we mix things up in matrix or in vector.</p>
+<pre class="r"><code>vec_mix &lt;- c(&quot;A&quot;, 1, 3, &quot;B&quot;)
+vec_num &lt;- c(1, 2, 3)
+vec_ch &lt;- c(&quot;A&quot;, &quot;B&quot;, &quot;C&quot;)
+rbind(vec_num, vec_ch)</code></pre>
+<pre><code>##         [,1] [,2] [,3]
+## vec_num &quot;1&quot;  &quot;2&quot;  &quot;3&quot; 
+## vec_ch  &quot;A&quot;  &quot;B&quot;  &quot;C&quot;</code></pre>
+<p>Q: What happened?</p>
+</div>
+<div id="more-on-data-frame" class="section level2">
+<h2>More on data frame</h2>
+<ul>
+<li>Data frame is most commonly added to your environment by importing an external data file, but you can also create one using <code>data.frame</code>.</li>
+</ul>
+<pre class="r"><code>data.frame(index = vec_num, ch = vec_ch)</code></pre>
+<pre><code>##   index ch
+## 1     1  A
+## 2     2  B
+## 3     3  C</code></pre>
+<ul>
+<li>In a tidy data frame, each column is <strong>usually</strong> a <code>variable</code> and each row is an <code>observation</code>.</li>
+<li>If it is not the case, often the early stage of your data analysis should be spent on converting the data structure into a tidy format (often called “tidying”).
+<ul>
+<li>STA3034 is a course covering skills for this manuever.</li>
+</ul></li>
+</ul>
+</div>
+<div id="accessing-the-data-from-a-data-frame" class="section level2">
+<h2>Accessing the data from a data frame</h2>
+<ul>
+<li>Data frame is a special matrix, so its elements can be accessed using <code>[</code>.</li>
+</ul>
+<pre class="r"><code>boys[1, ]</code></pre>
+<pre><code>##   boy matA sideA matB sideB
+## 1   1 13.2     L   14     R</code></pre>
+<pre class="r"><code>boys[1, 3]</code></pre>
+<pre><code>## [1] L
+## Levels: L R</code></pre>
+</div>
+<div id="theres-something-special-about-data-frames" class="section level2">
+<h2>There’s something special about data frames</h2>
+<ul>
+<li>Data frame also has an attribute called <code>names</code> (colnames); names of variables.</li>
+</ul>
+<pre class="r"><code>names(boys)</code></pre>
+<pre><code>## [1] &quot;boy&quot;   &quot;matA&quot;  &quot;sideA&quot; &quot;matB&quot;  &quot;sideB&quot;</code></pre>
+<ul>
+<li>Its columns can be accesed by <code>$</code> and the name of variable.</li>
+</ul>
+<pre class="r"><code>boys$matA</code></pre>
+<pre><code>##  [1] 13.2  8.2 10.9 14.3 10.7  6.6  9.5 10.8  8.8 13.3</code></pre>
+</div>
+<div id="data-frames" class="section level2">
+<h2>Data Frames</h2>
+<ul>
+<li>Data frame is similar to matrix, but each column may have different mode.</li>
+<li>Data frame is a list.</li>
+<li><code>data.frame()</code> creates data frame objects by combining vectors and matrices.
+<ul>
+<li><code>stringsAsFactors = T</code> (default): when data frames are created from character vectors, character vectors are converted into <code>factor</code>.</li>
+</ul></li>
+</ul>
+<pre class="r"><code>name &lt;- c('Chuck','Grace','Alexandria')
+age &lt;- c(68, 43, 29)
+male &lt;- c(TRUE, FALSE, FALSE)
+x &lt;- data.frame(name, age, male, stringsAsFactors = F)
+x</code></pre>
+<pre><code>##         name age  male
+## 1      Chuck  68  TRUE
+## 2      Grace  43 FALSE
+## 3 Alexandria  29 FALSE</code></pre>
+<hr />
 <ul>
 <li><code>str()</code> shows structure of any R objects.</li>
 </ul>
