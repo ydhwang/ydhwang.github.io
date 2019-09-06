@@ -7,7 +7,6 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
-<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 <meta name="author" content="STA9661" />
@@ -270,6 +269,7 @@ code {
 }
 img {
   max-width:100%;
+  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -342,6 +342,18 @@ summary {
   display: none;
 }
 </style>
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
 
 <!-- code folding -->
 
@@ -532,7 +544,7 @@ x</code></pre>
 <pre class="r"><code>q</code></pre>
 <pre><code>## function (save = &quot;default&quot;, status = 0, runLast = TRUE) 
 ## .Internal(quit(save, status, runLast))
-## &lt;bytecode: 0x7f820099c900&gt;
+## &lt;bytecode: 0x7f9fbaaa5818&gt;
 ## &lt;environment: namespace:base&gt;</code></pre>
 </div>
 <div id="help" class="section level2">
@@ -747,7 +759,7 @@ rbind(vec_num, vec_ch)</code></pre>
 <li><code>stringsAsFactors = T</code> (default): when data frames are created from character vectors, character vectors are converted into <code>factor</code>.</li>
 </ul></li>
 </ul>
-<pre class="r"><code>name &lt;- c('Chuck','Grace','Alexandria')
+<pre class="r"><code>name &lt;- c(&#39;Chuck&#39;,&#39;Grace&#39;,&#39;Alexandria&#39;)
 age &lt;- c(68, 43, 29)
 male &lt;- c(TRUE, FALSE, FALSE)
 x &lt;- data.frame(name, age, male, stringsAsFactors = F)
@@ -761,13 +773,13 @@ x</code></pre>
 <li><code>str()</code> shows structure of any R objects.</li>
 </ul>
 <pre class="r"><code>str(x)</code></pre>
-<pre><code>## 'data.frame':    3 obs. of  3 variables:
+<pre><code>## &#39;data.frame&#39;:    3 obs. of  3 variables:
 ##  $ name: chr  &quot;Chuck&quot; &quot;Grace&quot; &quot;Alexandria&quot;
 ##  $ age : num  68 43 29
 ##  $ male: logi  TRUE FALSE FALSE</code></pre>
 <pre class="r"><code>y &lt;- data.frame(name, age, male)
 str(y)</code></pre>
-<pre><code>## 'data.frame':    3 obs. of  3 variables:
+<pre><code>## &#39;data.frame&#39;:    3 obs. of  3 variables:
 ##  $ name: Factor w/ 3 levels &quot;Alexandria&quot;,&quot;Chuck&quot;,..: 2 3 1
 ##  $ age : num  68 43 29
 ##  $ male: logi  TRUE FALSE FALSE</code></pre>
@@ -841,12 +853,12 @@ x</code></pre>
 <ul>
 <li><code>merge()</code>: Combine two data frames according to the values of common variable.</li>
 </ul>
-<pre class="r"><code>d1 &lt;- data.frame(name = c('Rodgers', 'Choi', 'Field'), age = c(32, 27, 49), stringsAsFactors = FALSE)
-d2 &lt;- data.frame(Sex = c(&quot;M&quot;, &quot;F&quot;, &quot;M&quot;), name = c('Luck', 'Field', 'Gene'), stringsAsFactors = FALSE)
-merge(d1, d2, by = 'name')</code></pre>
+<pre class="r"><code>d1 &lt;- data.frame(name = c(&#39;Rodgers&#39;, &#39;Choi&#39;, &#39;Field&#39;), age = c(32, 27, 49), stringsAsFactors = FALSE)
+d2 &lt;- data.frame(Sex = c(&quot;M&quot;, &quot;F&quot;, &quot;M&quot;), name = c(&#39;Luck&#39;, &#39;Field&#39;, &#39;Gene&#39;), stringsAsFactors = FALSE)
+merge(d1, d2, by = &#39;name&#39;)</code></pre>
 <pre><code>##    name age Sex
 ## 1 Field  49   F</code></pre>
-<pre class="r"><code>merge(d1, d2, by='name', all = T)</code></pre>
+<pre class="r"><code>merge(d1, d2, by=&#39;name&#39;, all = T)</code></pre>
 <pre><code>##      name age  Sex
 ## 1    Choi  27 &lt;NA&gt;
 ## 2   Field  49    F
@@ -885,23 +897,6 @@ $(document).ready(function () {
 
 
 </script>
-
-<!-- tabsets -->
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
-<!-- code folding -->
-
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
