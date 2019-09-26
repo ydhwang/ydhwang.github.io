@@ -16,7 +16,7 @@ pre {
 yhwang_at_baruch_cuny_dot_edu\
 Paul H. Chook Department of Information Systems and Statistics\
 Zicklin School of Business, Baruch College, CUNY\
-1 Bernad Baruch Way, New York, NY 10010\
+One Bernard Baruch Way, New York, NY 10010\
 +1 646-312-3411\
 
 <!-- I am an assistant professor at the [Department of Statistics](http://shb.skku.edu/stat/), [Sungkyunkwan University (SKKU)](http://www.skku.edu/eng_home/index.jsp). Before joining SKKU, I worked as a statistician at [IBM TJ Watson Research Center](http://www.research.ibm.com/labs/watson/index.shtml). I'm interested in developing new statistical methodologies for solving problems in industry and engineering -- in the area of design and analysis of computer experiments, remote-sensing technology, wireless sensor networks and IoT.  -->
@@ -62,10 +62,10 @@ Zicklin School of Business, Baruch College, CUNY\
 ### Publication
 
 #### Statistics Journals
-1. Zhang, Q. and  Hwang, Y. (2019+). Sequential Model-based Optimization for Continuous Inputs with Finite Decision Space. *Technometrics*. to appear.
+1. Zhang, Q. and  Hwang, Y. (2019+). [Sequential Model-based Optimization for Continuous Inputs with Finite Decision Space](https://amstat.tandfonline.com/doi/full/10.1080/00401706.2019.1665589#.XYzftC2ZMQ8). *Technometrics*. In press..
+1. Xu, X., Hwang, Y., Kim, T., Wang, F., Wang, X., Chien, P. (2019+). [Level-expansion: A Statistical Sequential Design Methodology with Application to Nanomaterial Synthesis](https://www.tandfonline.com/doi/full/10.1080/00224065.2019.1571335). *Journal of Quality Technology*, to appear.
 1. Sun, F., Gramacy, R. B., Haaland, B., Lu, S. and Hwang, Y. (2019).
 [Synthesizing Simulation and Field Data of Solar Irradiance](https://onlinelibrary.wiley.com/doi/full/10.1002/sam.11414). *Statistical Analysis and Data Mining*, **12**, 311-324. preprint on [arXiv:1806.05131](https://arxiv.org/abs/1806.05131).
-1. Xu, X., Hwang, Y., Kim, T., Wang, F., Wang, X., Chien, P. (2019+). [Level-expansion: A Statistical Sequential Design Methodology with Application to Nanomaterial Synthesis](https://www.tandfonline.com/doi/full/10.1080/00224065.2019.1571335). *Journal of Quality Technology*, to appear.
 1. Hwang, Y., Kim, H., Chang, W., Yeo, K. and Kim, Y. (2019). [Bayesian Pollution Source Identification via an Inverse Physics Model](https://www.sciencedirect.com/science/article/pii/S0167947318302822).  *Computational Statistics and Data Analysis*, **134**, 76-92.
 1. Hwang, Y., Lu, S. and J. Kim (2018). [Bottom-up Estimation and Top-down Prediction: Solar Energy Prediction Combining Information from Multiple Sources](http://dx.doi.org/10.1214/18-AOAS1145). *Annals of Applied Statistics*, **12**, 2096-2120. 
 1. Hwang, Y., Barut, E., and Yeo, K. (2018). [Statistical-physical Estimation of Pollution Emission](http://www3.stat.sinica.edu.tw/statistica/J28N2/J28N217/J28N217.html). *Statistica Sinica*, **28**, 921-940.
@@ -78,9 +78,10 @@ Zicklin School of Business, Baruch College, CUNY\
 
 
 #### Collaborative 
+1. Han, S., Bang, J., Choi, D., Hwang, J., Kim, T., Oh, Y., Hwang, Y., Choi, J. and Hong, J. 
+Toxicity and physical effects of PVC and ABS microplastics on cells according to shape of microplastics using pattern analysis.  Submitted.
 1. Choi, D., Hwang, J., Bang, J., Han, J., Kim, T., Oh, Y., Hwang, Y. Choi, J. and Hong, J.
 Statistical curvature change analysis of random-shape polyethylene microdebris and their morphological-dependent toxicity in human-derived cells. Submitted.
-
 1. Lee, H. Kim, E., Baek, D., Hwang, Y., Kim, J., Lim, S., Sul, B. and Hong, B. (2019).
 [The Role of Regular Physical Therapy on Spasticity in Children with Cerebral Palsy](https://www.e-arm.org/journal/view.php?number=4093). *Annals of Rehabilitation Medicine*, **43**, 289-296.
 1. Yeo, K., Hwang, Y., Liu, X. and Kalagnanam, J. (2019). [Development of *hp*-inverse Model by Using Generalized Polynomial Chaos.](https://www.sciencedirect.com/science/article/pii/S0045782518306212?dgcid=author) *Computer Methods in Applied Mechanics and Engineering,* **347**, 1-20.
