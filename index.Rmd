@@ -62,7 +62,7 @@ One Bernard Baruch Way, New York, NY 10010\
 ### Publication
 
 #### Statistics Journals
-1. Zhang, Q. and  Hwang, Y. (2019+). [Sequential Model-based Optimization for Continuous Inputs with Finite Decision Space](https://amstat.tandfonline.com/doi/full/10.1080/00401706.2019.1665589#.XYzftC2ZMQ8). *Technometrics*. In press.
+1. Zhang, Q. and  Hwang, Y. (2019+). [Sequential Model-based Optimization for Continuous Inputs with Finite Decision Space](https://www.tandfonline.com/doi/abs/10.1080/00401706.2019.1665589). *Technometrics*. In press.
 1. Xu, X., Hwang, Y., Kim, T., Wang, F., Wang, X., Chien, P. (2019+). [Level-expansion: A Statistical Sequential Design Methodology with Application to Nanomaterial Synthesis](https://www.tandfonline.com/doi/full/10.1080/00224065.2019.1571335). *Journal of Quality Technology*, to appear.
 1. Sun, F., Gramacy, R. B., Haaland, B., Lu, S. and Hwang, Y. (2019).
 [Synthesizing Simulation and Field Data of Solar Irradiance](https://onlinelibrary.wiley.com/doi/full/10.1002/sam.11414). *Statistical Analysis and Data Mining*, **12**, 311-324. preprint on [arXiv:1806.05131](https://arxiv.org/abs/1806.05131).
