@@ -28,6 +28,7 @@ __Collaborators__
 - [Emre Barut](http://home.gwu.edu/~barut/)
 - [Peter Chien](https://uq.wisc.edu)
 - [Daegon Cho](http://dlab.kaist.ac.kr) 
+- [Jinkee Hong](https://ncmlys.wixsite.com/ncml)
 - [Jae Kwang Kim](http://jkim.public.iastate.edu)
 - [Hang J Kim](http://www.artsci.uc.edu/departments/math/fac_staff.html?eid=kim3h4&thecomp=uceprof)
 - [Kyongmin Yeo](http://www.dam.brown.edu/people/kyeo/)

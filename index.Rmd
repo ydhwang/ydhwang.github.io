@@ -16,7 +16,7 @@ pre {
 yhwang_at_baruch_cuny_dot_edu\
 Paul H. Chook Department of Information Systems and Statistics\
 Zicklin School of Business, Baruch College, CUNY\
-1 Bernad Baruch Way, New York, NY 10010\
+One Bernard Baruch Way, New York, NY 10010\
 +1 646-312-3411\
 
 <!-- I am an assistant professor at the [Department of Statistics](http://shb.skku.edu/stat/), [Sungkyunkwan University (SKKU)](http://www.skku.edu/eng_home/index.jsp). Before joining SKKU, I worked as a statistician at [IBM TJ Watson Research Center](http://www.research.ibm.com/labs/watson/index.shtml). I'm interested in developing new statistical methodologies for solving problems in industry and engineering -- in the area of design and analysis of computer experiments, remote-sensing technology, wireless sensor networks and IoT.  -->
@@ -81,7 +81,9 @@ Zicklin School of Business, Baruch College, CUNY\
 1. Kim, S., Hwang, Y., Seo, H., Kim, B. (2019).
 Ground Motion Amplification Models for Japan using Machine Learning Techniques. 
 Submitted.
-1. Choi, D., Hwang, J., Bang, J., Han, J., Kim, T., Oh, Y., Hwang, Y. Choi, J. and Hong, J. (2019). 
+1. Han, S., Bang, J., Choi, D., Hwang, J., Kim, T., Oh, Y., Hwang, Y., Choi, J. and Hong, J. 
+Toxicity and physical effects of PVC and ABS microplastics on cells according to shape of microplastics using pattern analysis.  Submitted.
+1. Choi, D., Hwang, J., Bang, J., Han, J., Kim, T., Oh, Y., Hwang, Y. Choi, J. and Hong, J.
 Statistical curvature change analysis of random-shape polyethylene microdebris and their morphological-dependent toxicity in human-derived cells. Submitted.
 1. Lee, H. Kim, E., Baek, D., Hwang, Y., Kim, J., Lim, S., Sul, B. and Hong, B. (2019).
 [The Role of Regular Physical Therapy on Spasticity in Children with Cerebral Palsy](https://www.e-arm.org/journal/view.php?number=4093). *Annals of Rehabilitation Medicine*, **43**, 289-296.
