@@ -62,8 +62,9 @@ One Bernard Baruch Way, New York, NY 10010\
 ### Publication
 
 #### Statistics Journals
-1. Zhang, Q. and  Hwang, Y. (2019+). [Sequential Model-based Optimization for Continuous Inputs with Finite Decision Space](https://doi.org/10.1080/00401706.2019.1665589). *Technometrics*. to appear.
-1. Xu, X., Hwang, Y., Kim, T., Wang, F., Wang, X., Chien, P. (2019+). [Level-expansion: A Statistical Sequential Design Methodology with Application to Nanomaterial Synthesis](https://www.tandfonline.com/doi/full/10.1080/00224065.2019.1571335). *Journal of Quality Technology*, to appear.
+1. Hwang, Y., Lee, E., Cho, D., Zhang, Q. (2018) A Spline-based Multilevel Modeling Approach for Complex Data. Submitted.
+1. Zhang, Q. and  Hwang, Y. (2019+). [Sequential Model-based Optimization for Continuous Inputs with Finite Decision Space](https://doi.org/10.1080/00401706.2019.1665589). *Technometrics*. In press.
+1. Xu, X., Hwang, Y., Kim, T., Wang, F., Wang, X., Chien, P. (2019+). [Level-expansion: A Statistical Sequential Design Methodology with Application to Nanomaterial Synthesis](https://www.tandfonline.com/doi/full/10.1080/00224065.2019.1571335). *Journal of Quality Technology*. In press.
 1. Sun, F., Gramacy, R. B., Haaland, B., Lu, S. and Hwang, Y. (2019).
 [Synthesizing Simulation and Field Data of Solar Irradiance](https://onlinelibrary.wiley.com/doi/full/10.1002/sam.11414). *Statistical Analysis and Data Mining*, **12**, 311-324. preprint on [arXiv:1806.05131](https://arxiv.org/abs/1806.05131).
 1. Hwang, Y., Kim, H., Chang, W., Yeo, K. and Kim, Y. (2019). [Bayesian Pollution Source Identification via an Inverse Physics Model](https://www.sciencedirect.com/science/article/pii/S0167947318302822).  *Computational Statistics and Data Analysis*, **134**, 76-92.
@@ -97,10 +98,10 @@ Statistical curvature change analysis of random-shape polyethylene microdebris a
 1. Wang, F., Hwang, Y., Qian, P. Z. G. and Wang, X. (2010). [A Statistics-Guided Approach to Precise Characterization of Nanowire Morphology.](http://pubs.acs.org/doi/abs/10.1021/nn901530e) *ACS Nano*, **4**, 855–862.
 
 
-### Reports
+<!-- ### Reports -->
 
-1. Hwang, Y., Lee, E., Cho, D., Zhang, Q. (2018) A Simple Approach for Complex Data Using Spline-based Multilevel Model. 
-1. Qian, P., Amemiya, Y.,  Hwang, Y. (2017). A Structural Equation Method for Modeling Multivariate Data from Computer Experiments: with Application to Data Center Thermal Management. Under revision for *Technometrics*.
+
+<!-- 1. Qian, P., Amemiya, Y.,  Hwang, Y. (2017). A Structural Equation Method for Modeling Multivariate Data from Computer Experiments: with Application to Data Center Thermal Management. Under revision for *Technometrics*. -->
 
 ### Teaching
 

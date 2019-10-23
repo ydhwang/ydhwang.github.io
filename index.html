@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -268,7 +269,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -341,18 +341,6 @@ summary {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -440,8 +428,9 @@ One Bernard Baruch Way, New York, NY 10010<br />
 <div id="statistics-journals" class="section level4">
 <h4>Statistics Journals</h4>
 <ol style="list-style-type: decimal">
-<li>Zhang, Q. and Hwang, Y. (2019+). <a href="https://doi.org/10.1080/00401706.2019.1665589">Sequential Model-based Optimization for Continuous Inputs with Finite Decision Space</a>. <em>Technometrics</em>. to appear.</li>
-<li>Xu, X., Hwang, Y., Kim, T., Wang, F., Wang, X., Chien, P. (2019+). <a href="https://www.tandfonline.com/doi/full/10.1080/00224065.2019.1571335">Level-expansion: A Statistical Sequential Design Methodology with Application to Nanomaterial Synthesis</a>. <em>Journal of Quality Technology</em>, to appear.</li>
+<li>Hwang, Y., Lee, E., Cho, D., Zhang, Q. (2018) A Spline-based Multilevel Modeling Approach for Complex Data. Submitted.</li>
+<li>Zhang, Q. and Hwang, Y. (2019+). <a href="https://doi.org/10.1080/00401706.2019.1665589">Sequential Model-based Optimization for Continuous Inputs with Finite Decision Space</a>. <em>Technometrics</em>. In press.</li>
+<li>Xu, X., Hwang, Y., Kim, T., Wang, F., Wang, X., Chien, P. (2019+). <a href="https://www.tandfonline.com/doi/full/10.1080/00224065.2019.1571335">Level-expansion: A Statistical Sequential Design Methodology with Application to Nanomaterial Synthesis</a>. <em>Journal of Quality Technology</em>. In press.</li>
 <li>Sun, F., Gramacy, R. B., Haaland, B., Lu, S. and Hwang, Y. (2019). <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/sam.11414">Synthesizing Simulation and Field Data of Solar Irradiance</a>. <em>Statistical Analysis and Data Mining</em>, <strong>12</strong>, 311-324. preprint on <a href="https://arxiv.org/abs/1806.05131">arXiv:1806.05131</a>.</li>
 <li>Hwang, Y., Kim, H., Chang, W., Yeo, K. and Kim, Y. (2019). <a href="https://www.sciencedirect.com/science/article/pii/S0167947318302822">Bayesian Pollution Source Identification via an Inverse Physics Model</a>. <em>Computational Statistics and Data Analysis</em>, <strong>134</strong>, 76-92.</li>
 <li>Hwang, Y., Lu, S. and J. Kim (2018). <a href="http://dx.doi.org/10.1214/18-AOAS1145">Bottom-up Estimation and Top-down Prediction: Solar Energy Prediction Combining Information from Multiple Sources</a>. <em>Annals of Applied Statistics</em>, <strong>12</strong>, 2096-2120.</li>
@@ -469,14 +458,9 @@ One Bernard Baruch Way, New York, NY 10010<br />
 <li>Chung, H., Kong, E., Edwards, J., Weismer, G., Fourakis, M. and Hwang, Y. (2012). <a href="http://asa.scitation.org/doi/abs/10.1121/1.3651823">Cross-linguistic Studies of Children’s and Adults’ Vowel Spaces.</a> <em>The Journal of the Acoustical Society of America</em>. <strong>131</strong>, 442–454.</li>
 <li>Wang, F., Hwang, Y., Qian, P. Z. G. and Wang, X. (2010). <a href="http://pubs.acs.org/doi/abs/10.1021/nn901530e">A Statistics-Guided Approach to Precise Characterization of Nanowire Morphology.</a> <em>ACS Nano</em>, <strong>4</strong>, 855–862.</li>
 </ol>
+<!-- ### Reports -->
+<!-- 1. Qian, P., Amemiya, Y.,  Hwang, Y. (2017). A Structural Equation Method for Modeling Multivariate Data from Computer Experiments: with Application to Data Center Thermal Management. Under revision for *Technometrics*. -->
 </div>
-</div>
-<div id="reports" class="section level3">
-<h3>Reports</h3>
-<ol style="list-style-type: decimal">
-<li>Hwang, Y., Lee, E., Cho, D., Zhang, Q. (2018) A Simple Approach for Complex Data Using Spline-based Multilevel Model.</li>
-<li>Qian, P., Amemiya, Y., Hwang, Y. (2017). A Structural Equation Method for Modeling Multivariate Data from Computer Experiments: with Application to Data Center Thermal Management. Under revision for <em>Technometrics</em>.</li>
-</ol>
 </div>
 <div id="teaching" class="section level3">
 <h3>Teaching</h3>
@@ -582,6 +566,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
