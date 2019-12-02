@@ -13,7 +13,7 @@ pre {
 }
 </style>
 
-yhwang_at_baruch_cuny_dot_edu\
+youngdeok.hwang_at_baruch_cuny_dot_edu\
 Paul H. Chook Department of Information Systems and Statistics\
 Zicklin School of Business, Baruch College, CUNY\
 One Bernard Baruch Way, New York, NY 10010\
