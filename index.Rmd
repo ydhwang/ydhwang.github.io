@@ -62,7 +62,7 @@ One Bernard Baruch Way, New York, NY 10010\
 ### Publication
 
 #### Statistics Journals
-1. Hwang, Y., Lee, E., Cho, D., Zhang, Q. (2020) A Spline-based Multilevel Modeling Approach for Complex Data. Submitted.
+1. Hwang, Y., Lee, E., Cho, D., Zhang, Q. (2020+) A Spline-based Multilevel Modeling Approach for Complex Data. Submitted.
 1. Zhang, Q. and  Hwang, Y. (2020+). [Sequential Model-based Optimization for Continuous Inputs with Finite Decision Space](https://doi.org/10.1080/00401706.2019.1665589). *Technometrics*. In press.
 1. Xu, X., Hwang, Y., Kim, T., Wang, F., Wang, X., Chien, P. (2020). [Level-expansion: A Statistical Sequential Design Methodology with Application to Nanomaterial Synthesis](https://www.tandfonline.com/doi/full/10.1080/00224065.2019.1571335). *Journal of Quality Technology*. **52**, 97-107.
 1. Sung, C. -L., Haaland, B. Hwang, Y.  and  Lu, S. Clustered Gaussian process model with an application to solar irradiance emulation. Submitted. [arxiv](https://arxiv.org/abs/1911.04602)
@@ -80,12 +80,14 @@ One Bernard Baruch Way, New York, NY 10010\
 
 
 #### Collaborative 
-1. Kim, S., Hwang, Y., Seo, H., Kim, B. (2020).
+1. Choi, D., Bang, J., Kim, T., Oh, Y., Hwang, Y., Hong, J. (2020+).
+Chemical and physical cytotoxicity of polystyrene microfragments in human-derived cells. Submitted.
+1. Kim, S., Hwang, Y., Seo, H., Kim, B. (2020+).
 Ground Motion Amplification Models for Japan using Machine Learning Techniques. 
 Under revision.
 1. Han, S., Bang, J., Choi, D., Hwang, J., Kim, T., Oh, Y., Hwang, Y., Choi, J. and Hong, J. 
-Toxicity and physical effects of PVC and ABS microplastics on cells according to shape of microplastics using pattern analysis.  Submitted.
-1. Choi, D., Hwang, J., Bang, J., Han, J., Kim, T., Oh, Y., Hwang, Y. Choi, J. and Hong, J.
+Toxicity and physical effects of PVC and ABS microplastics on cells according to shape of microplastics using pattern analysis (2020+).  Submitted.
+1. Choi, D., Hwang, J., Bang, J., Han, J., Kim, T., Oh, Y., Hwang, Y. Choi, J. and Hong, J (2020+).
 Statistical curvature change analysis of random-shape polyethylene microdebris and their morphological-dependent toxicity in human-derived cells. Submitted.
 1. Lee, H. Kim, E., Baek, D., Hwang, Y., Kim, J., Lim, S., Sul, B. and Hong, B. (2019).
 [The Role of Regular Physical Therapy on Spasticity in Children with Cerebral Palsy](https://www.e-arm.org/journal/view.php?number=4093). *Annals of Rehabilitation Medicine*, **43**, 289-296.
