@@ -82,13 +82,12 @@ One Bernard Baruch Way, New York, NY 10010\
 #### Collaborative 
 1. Choi, D., Bang, J., Kim, T., Oh, Y., Hwang, Y., Hong, J. (2020+).
 Chemical and physical cytotoxicity of polystyrene microfragments in human-derived cells. Submitted.
-1. Kim, S., Hwang, Y., Seo, H., Kim, B. (2020+).
-Ground Motion Amplification Models for Japan using Machine Learning Techniques. 
-Under revision.
 1. Han, S., Bang, J., Choi, D., Hwang, J., Kim, T., Oh, Y., Hwang, Y., Choi, J. and Hong, J. 
 Toxicity and physical effects of PVC and ABS microplastics on cells according to shape of microplastics using pattern analysis (2020+).  Submitted.
 1. Choi, D., Hwang, J., Bang, J., Han, J., Kim, T., Oh, Y., Hwang, Y. Choi, J. and Hong, J (2020+).
 Statistical curvature change analysis of random-shape polyethylene microdebris and their morphological-dependent toxicity in human-derived cells. Submitted.
+1. Kim, S., Hwang, Y., Seo, H., Kim, B. (2020+).
+Ground Motion Amplification Models for Japan using Machine Learning Techniques. *Soil Dynamics and Earthquake Engineering*, In press.
 1. Lee, H. Kim, E., Baek, D., Hwang, Y., Kim, J., Lim, S., Sul, B. and Hong, B. (2019).
 [The Role of Regular Physical Therapy on Spasticity in Children with Cerebral Palsy](https://www.e-arm.org/journal/view.php?number=4093). *Annals of Rehabilitation Medicine*, **43**, 289-296.
 1. Yeo, K., Hwang, Y., Liu, X. and Kalagnanam, J. (2019). [Development of *hp*-inverse Model by Using Generalized Polynomial Chaos.](https://www.sciencedirect.com/science/article/pii/S0045782518306212?dgcid=author) *Computer Methods in Applied Mechanics and Engineering,* **347**, 1-20.
