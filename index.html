@@ -7,7 +7,6 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
-<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -269,6 +268,7 @@ code {
 }
 img {
   max-width:100%;
+  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -341,6 +341,18 @@ summary {
   display: none;
 }
 </style>
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
 
 <!-- code folding -->
 
@@ -449,7 +461,8 @@ One Bernard Baruch Way, New York, NY 10010<br />
 <li>Choi, D., Bang, J., Kim, T., Oh, Y., Hwang, Y., Hong, J. (2020+). Chemical and physical cytotoxicity of polystyrene microfragments in human-derived cells. Submitted.</li>
 <li>Han, S., Bang, J., Choi, D., Hwang, J., Kim, T., Oh, Y., Hwang, Y., Choi, J. and Hong, J. Toxicity and physical effects of PVC and ABS microplastics on cells according to shape of microplastics using pattern analysis (2020+). Submitted.</li>
 <li>Choi, D., Hwang, J., Bang, J., Han, J., Kim, T., Oh, Y., Hwang, Y. Choi, J. and Hong, J (2020+). Statistical curvature change analysis of random-shape polyethylene microdebris and their morphological-dependent toxicity in human-derived cells. Submitted.</li>
-<li>Kim, S., Hwang, Y., Seo, H., Kim, B. (2020+). Ground Motion Amplification Models for Japan using Machine Learning Techniques. <em>Soil Dynamics and Earthquake Engineering</em>, In press.</li>
+<li>Sung, W., Kim, W., Hwang, Y., Kim, J., Lim, S., Hong, B. (2020+) Body composition of school-aged children with disabilities. <em>Pediatrics International</em>, In Press.</li>
+<li>Kim, S., Hwang, Y., Seo, H., Kim, B. (2020). <a href="https://doi.org/10.1016/j.soildyn.2020.106095">Ground Motion Amplification Models for Japan using Machine Learning Techniques</a>. <em>Soil Dynamics and Earthquake Engineering</em>, <strong>132</strong>, 106095.</li>
 <li>Lee, H. Kim, E., Baek, D., Hwang, Y., Kim, J., Lim, S., Sul, B. and Hong, B. (2019). <a href="https://www.e-arm.org/journal/view.php?number=4093">The Role of Regular Physical Therapy on Spasticity in Children with Cerebral Palsy</a>. <em>Annals of Rehabilitation Medicine</em>, <strong>43</strong>, 289-296.</li>
 <li>Yeo, K., Hwang, Y., Liu, X. and Kalagnanam, J. (2019). <a href="https://www.sciencedirect.com/science/article/pii/S0045782518306212?dgcid=author">Development of <em>hp</em>-inverse Model by Using Generalized Polynomial Chaos.</a> <em>Computer Methods in Applied Mechanics and Engineering,</em> <strong>347</strong>, 1-20.</li>
 <li>Cho, D. and Hwang, Y. and Park, J. (2018). <a href="https://doi.org/10.1016/j.jebo.2018.09.012">More Buzz, More Vibes: Impact of Social Media on Concert Distribution</a>. <em>Journal of Economic Behavior &amp; Organization</em>, <strong>156</strong>, 103-113.</li>
@@ -570,23 +583,6 @@ $(document).ready(function () {
 
 
 </script>
-
-<!-- tabsets -->
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
-<!-- code folding -->
-
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

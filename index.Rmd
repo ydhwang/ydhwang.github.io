@@ -86,8 +86,9 @@ Chemical and physical cytotoxicity of polystyrene microfragments in human-derive
 Toxicity and physical effects of PVC and ABS microplastics on cells according to shape of microplastics using pattern analysis (2020+).  Submitted.
 1. Choi, D., Hwang, J., Bang, J., Han, J., Kim, T., Oh, Y., Hwang, Y. Choi, J. and Hong, J (2020+).
 Statistical curvature change analysis of random-shape polyethylene microdebris and their morphological-dependent toxicity in human-derived cells. Submitted.
-1. Kim, S., Hwang, Y., Seo, H., Kim, B. (2020+).
-Ground Motion Amplification Models for Japan using Machine Learning Techniques. *Soil Dynamics and Earthquake Engineering*, In press.
+1. Sung, W., Kim, W., Hwang, Y., Kim, J., Lim, S., Hong, B. (2020+) Body composition of school-aged children with disabilities. *Pediatrics International*, In Press.
+1. Kim, S., Hwang, Y., Seo, H., Kim, B. (2020).
+[Ground Motion Amplification Models for Japan using Machine Learning Techniques](https://doi.org/10.1016/j.soildyn.2020.106095). *Soil Dynamics and Earthquake Engineering*, **132**, 106095.
 1. Lee, H. Kim, E., Baek, D., Hwang, Y., Kim, J., Lim, S., Sul, B. and Hong, B. (2019).
 [The Role of Regular Physical Therapy on Spasticity in Children with Cerebral Palsy](https://www.e-arm.org/journal/view.php?number=4093). *Annals of Rehabilitation Medicine*, **43**, 289-296.
 1. Yeo, K., Hwang, Y., Liu, X. and Kalagnanam, J. (2019). [Development of *hp*-inverse Model by Using Generalized Polynomial Chaos.](https://www.sciencedirect.com/science/article/pii/S0045782518306212?dgcid=author) *Computer Methods in Applied Mechanics and Engineering,* **347**, 1-20.
