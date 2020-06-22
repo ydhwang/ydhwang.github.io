@@ -110,8 +110,9 @@ In vitro chemical and physical toxicities of polystyrene microfragments in human
 ### Teaching
 
 ##### At Baruch College
-* Business Statistics II (STA 3154) 2020S
-* Multivariate Statistics for Business Analytics -- with DataCamp (STA9661) 2019F
+* STA 9708 - Managerial Statistics 2020S, 2020F
+* STA 3154 - Business Statistics II 2020S, 2020F
+* STA 9661 - Multivariate Statistics for Business Analytics -- with DataCamp 2019F
 
 ##### At SKKU
 * Statistical Consulting -- with DataCamp (STA5034) 2019S
