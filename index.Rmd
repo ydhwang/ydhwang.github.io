@@ -62,7 +62,7 @@ One Bernard Baruch Way, New York, NY 10010\
 ### Publication
 
 #### Statistics Journals
-1. Hwang, Y., Lee, E., Cho, D., Zhang, Q. (2020+) A Spline-based Multilevel Modeling Approach for Complex Data. Submitted.
+1. Hwang, Y., Lee, E., Cho, D., Zhang, Q. (2020+) A Spline-based  Modeling Approach for Time-Indexed Multilevel Data. Submitted.
 1. Sung, C. -L., Haaland, B. Hwang, Y.  and  Lu, S. (2020+) Clustered Gaussian process model with an application to solar irradiance emulation. Submitted. [arxiv](https://arxiv.org/abs/1911.04602)
 1. Zhang, Q. and  Hwang, Y. (2020+). [Sequential Model-based Optimization for Continuous Inputs with Finite Decision Space](https://doi.org/10.1080/00401706.2019.1665589). *Technometrics*. In press.
 1. Xu, X., Hwang, Y., Kim, T., Wang, F., Wang, X., Chien, P. (2020). [Level-expansion: A Statistical Sequential Design Methodology with Application to Nanomaterial Synthesis](https://www.tandfonline.com/doi/full/10.1080/00224065.2019.1571335). *Journal of Quality Technology*. **52**, 97-107.
@@ -110,7 +110,7 @@ Statistical curvature change analysis of random-shape polyethylene microdebris a
 ### Teaching
 
 ##### At Baruch College
-* STA 9708 - Managerial Statistics 2020S, 2020F
+* STA 9708 - Managerial Statistics 2020F 
 * STA 3154 - Business Statistics II 2020S, 2020F
 * STA 9661 - Multivariate Statistics for Business Analytics -- with DataCamp 2019F
 
