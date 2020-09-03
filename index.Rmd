@@ -82,7 +82,7 @@ One Bernard Baruch Way, New York, NY 10010\
 #### Collaborative 
 
 1. Han, S., Bang, J., Choi, D., Hwang, J., Kim, T., Oh, Y., Hwang, Y., Choi, J. and Hong, J. (2020+)
-Surface pattern analysis of microplastics and impact on humans.  Revision Submitted to *ACS Applied Polymer Materials*.
+[Surface pattern analysis of microplastics and impact on humans](https://pubs.acs.org/doi/abs/10.1021/acsapm.0c00645). *ACS Applied Polymer Materials*. In Press.
 1. Choi, D., Hwang, J., Bang, J., Han, J., Kim, T., Oh, Y., Hwang, Y. Choi, J. and Hong, J (2020+).
 Statistical curvature change analysis of random-shape polyethylene microdebris and their morphological-dependent toxicity in human-derived cells. Submitted.
 1. Choi, D., Bang, J., Kim, T., Oh, Y., Hwang, Y., Hong, J. (2020).
