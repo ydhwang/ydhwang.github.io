@@ -37,7 +37,7 @@ __Collaborators__
 __Unsorted__ 
 
 - [The New York Times](https://www.nytimes.com) / 
-[Mapping America: Every City, Every Block](http://www.nytimes.com/projects/census/2010/explorer.html?ref=nyregion) 
+[Mapping Segregation](https://www.nytimes.com/interactive/2015/07/08/us/census-race-map.html) 
 - [Storycorps](https://storycorps.org/) 
 - [NPR](http://www.npr.org)
 - [The Effort Report](http://effortreport.libsyn.com)
