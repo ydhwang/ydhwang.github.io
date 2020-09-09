@@ -85,9 +85,9 @@ One Bernard Baruch Way, New York, NY 10010\
 [In Vitro Toxicity from a Physical Perspective of Polyethylene Microplastics Based on Statistical Curvature Change Analysis](https://www.sciencedirect.com/science/article/abs/pii/S0048969720357715?via%3Dihub). *Science of the Total Environment*. In Press. 
 1. Han, S., Bang, J., Choi, D., Hwang, J., Kim, T., Oh, Y., Hwang, Y., Choi, J. and Hong, J. (2020+).
 [Surface Pattern Analysis of Microplastics and Impact on Humans](https://pubs.acs.org/doi/abs/10.1021/acsapm.0c00645). *ACS Applied Polymer Materials*. In Press.
+1. Sung, W., Kim, W., Hwang, Y., Kim, J., Lim, S., Hong, B. (2020+) [Body composition of school-aged children with disabilities](https://onlinelibrary.wiley.com/doi/abs/10.1111/ped.14248?casa_token=L8ZPhUKA-sUAAAAA:7c4JbknFhJXkPCC59Zo8xpgrorSJ4LC02Ta-JhQ8HtpiATHn9wd38YBs8WQEBHiqgNqz7sn2ZxcQjw). *Pediatrics International*, In Press.
 1. Choi, D., Bang, J., Kim, T., Oh, Y., Hwang, Y., Hong, J. (2020).
 [In Vitro Chemical and Physical Toxicities of Polystyrene Microfragments in Human-derived Cells](https://doi.org/10.1016/j.jhazmat.2020.123308). *Journal of Hazardous Materials*. **400**, 5 December 2020, 123308.
-1. Sung, W., Kim, W., Hwang, Y., Kim, J., Lim, S., Hong, B. (2020+) [Body composition of school-aged children with disabilities](https://onlinelibrary.wiley.com/doi/abs/10.1111/ped.14248?casa_token=L8ZPhUKA-sUAAAAA:7c4JbknFhJXkPCC59Zo8xpgrorSJ4LC02Ta-JhQ8HtpiATHn9wd38YBs8WQEBHiqgNqz7sn2ZxcQjw). *Pediatrics International*, In Press.
 1. Kim, S., Hwang, Y., Seo, H., Kim, B. (2020).
 [Ground Motion Amplification Models for Japan using Machine Learning Techniques](https://doi.org/10.1016/j.soildyn.2020.106095). *Soil Dynamics and Earthquake Engineering*, **132**, 106095.
 1. Lee, H. Kim, E., Baek, D., Hwang, Y., Kim, J., Lim, S., Sul, B. and Hong, B. (2019).
