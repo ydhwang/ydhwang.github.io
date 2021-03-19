@@ -26,6 +26,7 @@ __Resources__
 __Collaborators__ 
 
 - [Emre Barut](http://home.gwu.edu/~barut/)
+- [Won Chang](http://www.wonchang.net/)
 - [Peter Chien](https://uq.wisc.edu)
 - [Daegon Cho](http://dlab.kaist.ac.kr) 
 - [Jinkee Hong](https://ncmlys.wixsite.com/ncml)
