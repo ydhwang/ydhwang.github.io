@@ -117,8 +117,8 @@ Office: 11-225\
 
 ##### At Baruch College
 * STA 9719 - Foundations of Statistical Inference 2021S
-* STA 9708 - Managerial Statistics 2020F 
-* STA 3154 - Business Statistics II 2020S, 2020F
+* STA 9708 - Managerial Statistics 2020F, 2021F 
+* STA 3154 - Business Statistics II 2020S, 2020F, 2021F
 * STA 9661 - Multivariate Statistics for Business Analytics -- with DataCamp 2019F
 
 ##### At SKKU
