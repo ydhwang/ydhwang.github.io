@@ -64,7 +64,7 @@ Office: 11-225\
 
 #### Statistics Journals
 1. Hwang, Y., Lee, E., Cho, D., Zhang, Q. (2021+) A Spline-based  Modeling Approach for Time-Indexed Multilevel Data. Submitted.
-1. Sung, C. -L., Haaland, B. Hwang, Y.  and  Lu, S. (2021+) Clustered Gaussian process model with an application to solar irradiance emulation. *Statistica Sinica*, forthcoming. prepreint on [arXiv:1911.04602](https://arxiv.org/abs/1911.04602)
+1. Sung, C. -L., Haaland, B. Hwang, Y.  and  Lu, S. (2021+) A clustered Gaussian process model for computer experiments. *Statistica Sinica*, forthcoming. prepreint on [arXiv:1911.04602](https://arxiv.org/abs/1911.04602)
 1. Yang, S., Kim, J. and Hwang, Y. (2021) Integration of survey data and big observational data for finite population inference using mass imputation. **47** 29-58. *Survey Methodology*.
 1. Zhang, Q. and  Hwang, Y. (2020). [Sequential Model-based Optimization for Continuous Inputs with Finite Decision Space](https://doi.org/10.1080/00401706.2019.1665589). *Technometrics*. **62**, 486-498.
 1. Xu, X., Hwang, Y., Kim, T., Wang, F., Wang, X., Chien, P. (2020). [Level-expansion: A Statistical Sequential Design Methodology with Application to Nanomaterial Synthesis](https://www.tandfonline.com/doi/full/10.1080/00224065.2019.1571335). *Journal of Quality Technology*. **52**, 97-107.
