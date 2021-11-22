@@ -84,8 +84,6 @@ Bayesian Model Calibration and Sensitivity Analysis for Oscillating Biological E
 
 
 #### Collaborative 
-1. Yoo, Y., Park, J., Jo, L. , Hwang, Y. Kim, J., Lim, S., Hong, B. (2021+). Factors Influencing the Progression and Direction of Scoliosis in Children with
-Neuromuscular Diseases. Submitted.
 1. Lim, S., Choo, E. Choi, I. Hwang, Y. Lee, K. Lee, S. Hwang, B.,Kim, C., Park, M., Lee, J., Park, C., Kim, H., Yoo, K., Jeon, D., Youn, Ho. , Chung, W., Kim, M., Jeong, M. Yim, H., Ahn, Y., and Chang, K. (2021+). Impact of malnutrition on bleeding, mortality, and ischemic events in patients with acute myocardial infarction undergoing percutaneous coronary intervention. Submitted.
 1. Sim, J., Cho, D., Hwang, Y., and Telang, R. (2021+). Virus Shook the Streaming Star: Estimating the COVID-19 Impact on Music Consumption.  *Marketing Science.* Forthcoming. preprint on
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3649085), [Press release](https://zicklin.baruch.cuny.edu/zicklin_news/music-streaming-declined-during-pandemic-zicklin-professor-finds/)
