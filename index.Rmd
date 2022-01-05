@@ -118,7 +118,7 @@ Bayesian Model Calibration and Sensitivity Analysis for Oscillating Biological E
 ### Teaching
 
 ##### At Baruch College
-* STA 9719 - Foundations of Statistical Inference 2021S
+* STA 9719 - Foundations of Statistical Inference 2021S, 2022S
 * STA 9708 - Managerial Statistics 2020F, 2021F 
 * STA 3154 - Business Statistics II 2020S, 2020F, 2021F
 * STA 9661 - Multivariate Statistics for Business Analytics -- with DataCamp 2019F
@@ -171,7 +171,8 @@ Bayesian Model Calibration and Sensitivity Analysis for Oscillating Biological E
 
 ### Professional Service
 
-Associate editor for [Applied Stochastic Models in Business and Industry](https://onlinelibrary.wiley.com/journal/15264025).
+* Associate editor for [Technometrics](https://www.tandfonline.com/journals/utch20). 
+* Associate editor for [Applied Stochastic Models in Business and Industry](https://onlinelibrary.wiley.com/journal/15264025).
 <!-- and [Communications for Statistical Applications and Methods](http://www.csam.or.kr/main.html).  -->
 
 Referee for _Technometrics, Statistica Sinica, Computational Statistics & Data Analysis, Journal of Nonparametric Statistics, Statistics and Probability Letters, PLOS ONE, SIAM/ASA Journal on Uncertainty Quantification._
