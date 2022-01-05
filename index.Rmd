@@ -173,7 +173,6 @@ Bayesian Model Calibration and Sensitivity Analysis for Oscillating Biological E
 
 * Associate editor for [Technometrics](https://www.tandfonline.com/journals/utch20)
 * Associate editor for [Applied Stochastic Models in Business and Industry](https://onlinelibrary.wiley.com/journal/15264025)
-<!-- and [Communications for Statistical Applications and Methods](http://www.csam.or.kr/main.html).  -->
 
 Referee for _Technometrics, Statistica Sinica, Computational Statistics & Data Analysis, Journal of Nonparametric Statistics, Statistics and Probability Letters, PLOS ONE, SIAM/ASA Journal on Uncertainty Quantification._
 
