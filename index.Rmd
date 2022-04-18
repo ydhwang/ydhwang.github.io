@@ -86,8 +86,8 @@ Bayesian Model Calibration and Sensitivity Analysis for Oscillating Biological E
 #### Collaborative 
 1. Lim, S., Choo, E. Choi, I. Hwang, Y. Lee, K. Lee, S. Hwang, B.,Kim, C., Park, M., Lee, J., Park, C., Kim, H., Yoo, K., Jeon, D., Youn, Ho. , Chung, W., Kim, M., Jeong, M. Yim, H., Ahn, Y., and Chang, K. (2021+). Impact of malnutrition on bleeding, mortality, and ischemic events in patients with acute myocardial infarction undergoing percutaneous coronary intervention. Submitted.
 1. Tuakli-Wosornu, Y. A., Pandiyan, U., Stratton, C., Hwang, Y., Hajjioui, A., Muñoz-Velalsco, L. P., 
- Fourtassi, M., Cooper, R., Balikuddembe, J. K., Peterson, M., Krassioukov, A., Palomba, A., Tripathi, D. R., Hong, B. (2022+). 
- Perceived Physical and Mental Health and Healthy Eating Habits During the COVID-19 Pandemic in South Korea. Journal of Korean Medical Science. Accepted.
+ Fourtassi, M., Cooper, R., Balikuddembe, J. K., Peterson, M., Krassioukov, A., Palomba, A., Tripathi, D. R., Hong, B. (2022). 
+ [Perceived Physical and Mental Health and Healthy Eating Habits During the COVID-19 Pandemic in South Korea](https://jkms.org/DOIx.php?id=10.3346/jkms.2022.37.e118). *Journal of Korean Medical Science*. **37**(15), e118.
 1. Sim, J., Cho, D., Hwang, Y., and Telang, R. (2022). [Virus Shook the Streaming Star: Estimating the COVID-19 Impact on Music Consumption](https://pubsonline.informs.org/doi/abs/10.1287/mksc.2021.1321).  *Marketing Science.* **41**(1), 19-32. preprint on
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3649085), [Press release](https://zicklin.baruch.cuny.edu/zicklin_news/music-streaming-declined-during-pandemic-zicklin-professor-finds/)
 1. Choi, W., Park, S., Kwon, J., Jang, E, Kim, J, Heo, J, Hwang, Y., Kim, B., Moon, J., Jung, S., Choi, S., Lee, H., Ahn, H., and Hong, J. (2021). [Reverse Actuation of Polyelectrolyte Effect for In Vivo Antifouling](https://pubs.acs.org/doi/full/10.1021/acsnano.0c10431). *ACS Nano*. **15** (4) 6811–6828.
@@ -123,7 +123,8 @@ Bayesian Model Calibration and Sensitivity Analysis for Oscillating Biological E
 ##### At Baruch College
 * STA 9719 - Foundations of Statistical Inference 2021S, 2022S
 * STA 9708 - Managerial Statistics 2020F, 2021F 
-* STA 3154 - Business Statistics II 2020S, 2020F, 2021F
+* STA 3154 - Business Statistics II 2020S, 2020F, 2021F, 2022F
+* STA 3000 - Statistical Computing 2022F
 * STA 9661 - Multivariate Statistics for Business Analytics -- with DataCamp 2019F
 
 ##### At SKKU
