@@ -124,7 +124,7 @@ Bayesian Model Calibration and Sensitivity Analysis for Oscillating Biological E
 * STA 9719 - Foundations of Statistical Inference 2021S, 2022S
 * STA 9708 - Managerial Statistics 2020F, 2021F 
 * STA 3154 - Business Statistics II 2020S, 2020F, 2021F, 2022F
-* STA 3000 - Statistical Computing 2022F
+* STA 4370 - Introduction to Statistical Engineering 2022F
 * STA 9661 - Multivariate Statistics for Business Analytics -- with DataCamp 2019F
 
 ##### At SKKU
