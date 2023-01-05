@@ -84,7 +84,8 @@ Bayesian Model Calibration and Sensitivity Analysis for Oscillating Biological E
 
 
 #### Collaborative 
-1. Lim, S., Choo, E. Choi, I. Hwang, Y. Lee, K. Lee, S. Hwang, B.,Kim, C., Park, M., Lee, J., Park, C., Kim, H., Yoo, K., Jeon, D., Youn, Ho. , Chung, W., Kim, M., Jeong, M. Yim, H., Ahn, Y., and Chang, K. (2021+). Impact of malnutrition on bleeding, mortality, and ischemic events in patients with acute myocardial infarction undergoing percutaneous coronary intervention. Submitted.
+1. Lim, S., Choo, E. Choi, I. Hwang, Y. Lee, K. Lee, S. Hwang, B.,Kim, C., Park, M., Lee, J., Park, C., Kim, H., Yoo, K., Jeon, D., Youn, Ho. , Chung, W., Kim, M., Jeong, M. Yim, H., Ahn, Y., and Chang, K. (2023). [Impact of malnutrition on bleeding, mortality, and ischemic events in patients with acute myocardial infarction undergoing percutaneous coronary intervention](https://www.sciencedirect.com/science/article/pii/S0939475322004215). *Nutrition, Metabolism and Cardiovascular Diseases*.
+**33** (1) 65-74.
 1. Tuakli-Wosornu, Y. A., Pandiyan, U., Stratton, C., Hwang, Y., Hajjioui, A., Muñoz-Velalsco, L. P., 
  Fourtassi, M., Cooper, R., Balikuddembe, J. K., Peterson, M., Krassioukov, A., Palomba, A., Tripathi, D. R., Hong, B. (2022). 
  [Perceived Physical and Mental Health and Healthy Eating Habits During the COVID-19 Pandemic in South Korea](https://jkms.org/DOIx.php?id=10.3346/jkms.2022.37.e118). *Journal of Korean Medical Science*. **37**(15), e118.
