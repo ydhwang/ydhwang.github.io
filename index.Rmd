@@ -65,7 +65,7 @@ Office: 11-225\
 1. Hwang, Y., Kim, H. J., Chang, W., Hong, C., and MacEachern, S. N. (2021+).
 Bayesian Model Calibration and Sensitivity Analysis for Oscillating Biological Experiments. Submitted. prepreint on [arxiv:2110.10604](https://arxiv.org/abs/2110.10604).
 1. Hwang, Y., Lee, E., Cho, D., Zhang, Q. (2021+). A Spline-based  Modeling Approach for Time-Indexed Multilevel Data. Submitted.
-1. Sung, C. -L., Haaland, B. Hwang, Y.  and  Lu, S. (2023) [A clustered Gaussian process model for computer experiments](https://www3.stat.sinica.edu.tw/statistica/J33N2/J33N214/J33N214.html). *Statistica Sinica*, **33** 893-918. prepreint on [arXiv:1911.04602](https://arxiv.org/abs/1911.04602).
+1. Sung, C. -L., Haaland, B. Hwang, Y.  and  Lu, S. (2023) [A clustered Gaussian process model for computer experiments](https://www3.stat.sinica.edu.tw/statistica/J33N2/J33N214/J33N214.html). *Statistica Sinica*, **33**, 893-918. prepreint on [arXiv:1911.04602](https://arxiv.org/abs/1911.04602).
 1. Yang, S., Kim, J. and Hwang, Y. (2021) [Integration of survey data and big observational data for finite population inference using mass imputation](https://www150.statcan.gc.ca/n1/pub/12-001-x/2021001/article/00004-eng.htm). *Survey Methodology*. **47**, 29-58. 
 1. Zhang, Q. and  Hwang, Y. (2020). [Sequential Model-based Optimization for Continuous Inputs with Finite Decision Space](https://doi.org/10.1080/00401706.2019.1665589). *Technometrics*. **62**, 486-498.
 1. Xu, X., Hwang, Y., Kim, T., Wang, F., Wang, X., Chien, P. (2020). [Level-expansion: A Statistical Sequential Design Methodology with Application to Nanomaterial Synthesis](https://www.tandfonline.com/doi/full/10.1080/00224065.2019.1571335). *Journal of Quality Technology*. **52**, 97-107.
