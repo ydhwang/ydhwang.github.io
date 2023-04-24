@@ -46,12 +46,11 @@ Office: 11-225\
 
 ### Research Interests
 
-* Analytics in Technology, Business and Service
-* Inverse Problems and Uncertainty Quantification
-* Spatio-Temporal Statistics
+
+* Inverse Problems, Model Calibration and Uncertainty Quantification
 * Design of Experiments
-
-
+* Analytics in Technology, Business and Service
+* Spatio-Temporal Statistics
 
 ### Honors
 
