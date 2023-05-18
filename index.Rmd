@@ -121,9 +121,10 @@ Bayesian Model Calibration and Sensitivity Analysis for Oscillating Biological E
 ### Teaching
 
 ##### At Baruch College
+* STA 9715 - Applied Probability 2023F
 * STA 9719 - Foundations of Statistical Inference 2021S, 2022S
 * STA 9708 - Managerial Statistics 2020F, 2021F 
-* STA 3154 - Business Statistics II 2020S, 2020F, 2021F, 2022F
+* STA 3154 - Business Statistics II 2020S, 2020F, 2021F, 2022F, 2023F
 * STA 4370 - Introduction to Statistical Engineering 2022F
 * STA 9661 - Multivariate Statistics for Business Analytics -- with DataCamp 2019F
 
@@ -137,7 +138,7 @@ Bayesian Model Calibration and Sensitivity Analysis for Oscillating Biological E
 
 ### Selected Presentations
 
-*  School of Public Health, Louisiana State University. New Orleans, LA. 2022.
+* School of Public Health, Louisiana State University. New Orleans, LA. 2022.
 * Department of Applied Mathematics, Illinois Institute of Technology. Chicago, IL. 2022.
 * Department of Mathematics and Statistics, University of Maryland at Baltimore County (UMBC). Baltimore, MD. 2021.
 * Department of Mathematical Sciences, University of Cincinnati, Cincinnati, OH. 2020.
@@ -153,6 +154,7 @@ Bayesian Model Calibration and Sensitivity Analysis for Oscillating Biological E
 
 ### Research Grants
 
+* New York City Government Tech Talent Pipeline Grant (2022-2023).
 * NRF-2017R1C1B5075436 (PI, 2017-2019).
 * NRF-2018M3A9E8021503 (Co-PI, 2018-2022). 
 * KOFAC-2018FBA0007 (Undergraduate Research Program, 2018F).
@@ -164,10 +166,12 @@ Bayesian Model Calibration and Sensitivity Analysis for Oscillating Biological E
 * Parameter-dependent model-blending with multi-expert based machine learning and proxy sites (US20170017895 A1)
 * Detection Algorithms for Distributed Emission Sources of Abnormal Events (US20170147927)
 
-<!-- ### Consulting -->
+### Consulting
 
-<!-- * Statistical Model Building, IBM T. J. Watson Research Center, Aug 2018 - Present. -->
-
+* Korea Rural Economic Institute, 2023
+* United Nations Population Fund, 2022
+* Statistics Korea, 2019
+* IBM T. J. Watson Research Center, 2018
 
 ### Membership
 
