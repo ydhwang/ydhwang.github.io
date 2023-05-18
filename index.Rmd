@@ -62,7 +62,7 @@ Office: 11-225\
 ### Publication
 
 #### Statistics Journals
-1. Hwang, Y., Kim, H. J., Chang, W., Hong, C., and MacEachern, S. N. (2021+).
+1. Hwang, Y., Kim, H. J., Chang, W., Hong, C., and MacEachern, S. N. (2022+).
 Bayesian Model Calibration and Sensitivity Analysis for Oscillating Biological Experiments. Submitted. prepreint on [arxiv:2110.10604](https://arxiv.org/abs/2110.10604).
 1. Hwang, Y., Lee, E., Cho, D., Zhang, Q. (2021+). A Spline-based  Modeling Approach for Time-Indexed Multilevel Data. Submitted.
 1. Sung, C. -L., Haaland, B. Hwang, Y.  and  Lu, S. (2023) [A clustered Gaussian process model for computer experiments](https://www3.stat.sinica.edu.tw/statistica/J33N2/J33N214/J33N214.html). *Statistica Sinica*, **33**, 893-918. prepreint on [arXiv:1911.04602](https://arxiv.org/abs/1911.04602).
