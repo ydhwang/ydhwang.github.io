@@ -46,12 +46,11 @@ Office: 11-225\
 
 ### Research Interests
 
-* Analytics in Technology, Business and Service
-* Inverse Problems and Uncertainty Quantification
-* Spatio-Temporal Statistics
+
+* Inverse Problems, Model Calibration and Uncertainty Quantification
 * Design of Experiments
-
-
+* Analytics in Technology, Business and Service
+* Spatio-Temporal Statistics
 
 ### Honors
 
@@ -63,10 +62,10 @@ Office: 11-225\
 ### Publication
 
 #### Statistics Journals
-1. Hwang, Y., Kim, H. J., Chang, W., Hong, C., and MacEachern, S. N. (2021+).
+1. Hwang, Y., Kim, H. J., Chang, W., Hong, C., and MacEachern, S. N. (2022+).
 Bayesian Model Calibration and Sensitivity Analysis for Oscillating Biological Experiments. Submitted. prepreint on [arxiv:2110.10604](https://arxiv.org/abs/2110.10604).
 1. Hwang, Y., Lee, E., Cho, D., Zhang, Q. (2021+). A Spline-based  Modeling Approach for Time-Indexed Multilevel Data. Submitted.
-1. Sung, C. -L., Haaland, B. Hwang, Y.  and  Lu, S. (2021+) A clustered Gaussian process model for computer experiments. *Statistica Sinica*, forthcoming. prepreint on [arXiv:1911.04602](https://arxiv.org/abs/1911.04602).
+1. Sung, C. -L., Haaland, B. Hwang, Y.  and  Lu, S. (2023) [A clustered Gaussian process model for computer experiments](https://www3.stat.sinica.edu.tw/statistica/J33N2/J33N214/J33N214.html). *Statistica Sinica*, **33**, 893-918. prepreint on [arXiv:1911.04602](https://arxiv.org/abs/1911.04602).
 1. Yang, S., Kim, J. and Hwang, Y. (2021) [Integration of survey data and big observational data for finite population inference using mass imputation](https://www150.statcan.gc.ca/n1/pub/12-001-x/2021001/article/00004-eng.htm). *Survey Methodology*. **47**, 29-58. 
 1. Zhang, Q. and  Hwang, Y. (2020). [Sequential Model-based Optimization for Continuous Inputs with Finite Decision Space](https://doi.org/10.1080/00401706.2019.1665589). *Technometrics*. **62**, 486-498.
 1. Xu, X., Hwang, Y., Kim, T., Wang, F., Wang, X., Chien, P. (2020). [Level-expansion: A Statistical Sequential Design Methodology with Application to Nanomaterial Synthesis](https://www.tandfonline.com/doi/full/10.1080/00224065.2019.1571335). *Journal of Quality Technology*. **52**, 97-107.
@@ -122,9 +121,10 @@ Bayesian Model Calibration and Sensitivity Analysis for Oscillating Biological E
 ### Teaching
 
 ##### At Baruch College
+* STA 9715 - Applied Probability 2023F
 * STA 9719 - Foundations of Statistical Inference 2021S, 2022S
 * STA 9708 - Managerial Statistics 2020F, 2021F 
-* STA 3154 - Business Statistics II 2020S, 2020F, 2021F, 2022F
+* STA 3154 - Business Statistics II 2020S, 2020F, 2021F, 2022F, 2023F
 * STA 4370 - Introduction to Statistical Engineering 2022F
 * STA 9661 - Multivariate Statistics for Business Analytics -- with DataCamp 2019F
 
@@ -138,7 +138,7 @@ Bayesian Model Calibration and Sensitivity Analysis for Oscillating Biological E
 
 ### Selected Presentations
 
-*  School of Public Health, Louisiana State University. New Orleans, LA. 2022.
+* School of Public Health, Louisiana State University. New Orleans, LA. 2022.
 * Department of Applied Mathematics, Illinois Institute of Technology. Chicago, IL. 2022.
 * Department of Mathematics and Statistics, University of Maryland at Baltimore County (UMBC). Baltimore, MD. 2021.
 * Department of Mathematical Sciences, University of Cincinnati, Cincinnati, OH. 2020.
@@ -154,6 +154,7 @@ Bayesian Model Calibration and Sensitivity Analysis for Oscillating Biological E
 
 ### Research Grants
 
+* New York City Government Tech Talent Pipeline Grant (2022-2023).
 * NRF-2017R1C1B5075436 (PI, 2017-2019).
 * NRF-2018M3A9E8021503 (Co-PI, 2018-2022). 
 * KOFAC-2018FBA0007 (Undergraduate Research Program, 2018F).
@@ -165,10 +166,12 @@ Bayesian Model Calibration and Sensitivity Analysis for Oscillating Biological E
 * Parameter-dependent model-blending with multi-expert based machine learning and proxy sites (US20170017895 A1)
 * Detection Algorithms for Distributed Emission Sources of Abnormal Events (US20170147927)
 
-<!-- ### Consulting -->
+### Consulting
 
-<!-- * Statistical Model Building, IBM T. J. Watson Research Center, Aug 2018 - Present. -->
-
+* Korea Rural Economic Institute, 2023
+* United Nations Population Fund, 2022
+* Statistics Korea, 2019
+* IBM T. J. Watson Research Center, 2018
 
 ### Membership
 
