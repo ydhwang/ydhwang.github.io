@@ -51,6 +51,7 @@ Office: 11-225\
 * Design of Experiments
 * Analytics in Technology, Business and Service
 * Spatio-Temporal Statistics
+* Survey Sampling
 
 ### Honors
 
