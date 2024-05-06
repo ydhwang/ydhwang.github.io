@@ -65,10 +65,11 @@ Office: 11-225\
 ### Publication
 
 #### Statistics Journals
-1. Hwang, Y., Kim, H. J., Chang, W., Hong, C., and MacEachern, S. N. (2023+).
-Bayesian Model Calibration and Sensitivity Analysis for Oscillating Biological Experiments. Submitted. prepreint on [arxiv:2110.10604](https://arxiv.org/abs/2110.10604).
+1. Lee, J., Hwang, Y., Chang, W., B. Hong and H. Kim (2024+). Bayesian Estimation of Physical Activity from Wearable Sensor Measurements. Submitted.
+1. Hwang, Y., Kim, H. J., Chang, W., Hong, C., and MacEachern, S. N. (2023+). 
+Bayesian Model Calibration and Sensitivity Analysis for Oscillating Biological Experiments. Submitted. preprint on [arxiv:2110.10604](https://arxiv.org/abs/2110.10604).
 <!-- 1. Hwang, Y., Lee, E., Cho, D., Zhang, Q. (2021+). A Spline-based  Modeling Approach for Time-Indexed Multilevel Data. Submitted. --->
-1. Sung, C. -L., Haaland, B. Hwang, Y.  and  Lu, S. (2023) [A clustered Gaussian process model for computer experiments](https://www3.stat.sinica.edu.tw/statistica/J33N2/J33N214/J33N214.html). *Statistica Sinica*, **33**, 893-918. prepreint on [arXiv:1911.04602](https://arxiv.org/abs/1911.04602).
+1. Sung, C. -L., Haaland, B. Hwang, Y.  and  Lu, S. (2023) [A clustered Gaussian process model for computer experiments](https://www3.stat.sinica.edu.tw/statistica/J33N2/J33N214/J33N214.html). *Statistica Sinica*, **33**, 893-918. preprint on [arXiv:1911.04602](https://arxiv.org/abs/1911.04602).
 1. Yang, S., Kim, J. and Hwang, Y. (2021) [Integration of survey data and big observational data for finite population inference using mass imputation](https://www150.statcan.gc.ca/n1/pub/12-001-x/2021001/article/00004-eng.htm). *Survey Methodology*. **47**, 29-58. 
 1. Zhang, Q. and  Hwang, Y. (2020). [Sequential Model-based Optimization for Continuous Inputs with Finite Decision Space](https://doi.org/10.1080/00401706.2019.1665589). *Technometrics*. **62**, 486-498.
 1. Xu, X., Hwang, Y., Kim, T., Wang, F., Wang, X., Chien, P. (2020). [Level-expansion: A Statistical Sequential Design Methodology with Application to Nanomaterial Synthesis](https://www.tandfonline.com/doi/full/10.1080/00224065.2019.1571335). *Journal of Quality Technology*. **52**, 97-107.
@@ -86,7 +87,8 @@ Bayesian Model Calibration and Sensitivity Analysis for Oscillating Biological E
 
 
 #### Collaborative 
-1. Lim, S., Choo, E. Choi, I. Hwang, Y. Lee, K. Lee, S. Hwang, B.,Kim, C., Park, M., Lee, J., Park, C., Kim, H., Yoo, K., Jeon, D., Youn, Ho. , Chung, W., Kim, M., Jeong, M. Yim, H., Ahn, Y., and Chang, K. (2023). [Impact of malnutrition on bleeding, mortality, and ischemic events in patients with acute myocardial infarction undergoing percutaneous coronary intervention](https://www.sciencedirect.com/science/article/pii/S0939475322004215). *Nutrition, Metabolism and Cardiovascular Diseases*.
+1. Kim, M. and Hwang, Y. (2024+). Aim Better with Machine Learning: Enhancing Effectiveness of Government Credit Programs for SMEs. Submitted. preprint on [https://ssrn.com/abstract=4743966](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4743966). 
+1. Lim, S., Choo, E. Choi, I. Hwang, Y. Lee, K. Lee, S. Hwang, B., Kim, C., Park, M., Lee, J., Park, C., Kim, H., Yoo, K., Jeon, D., Youn, Ho. , Chung, W., Kim, M., Jeong, M. Yim, H., Ahn, Y., and Chang, K. (2023). [Impact of malnutrition on bleeding, mortality, and ischemic events in patients with acute myocardial infarction undergoing percutaneous coronary intervention](https://www.sciencedirect.com/science/article/pii/S0939475322004215). *Nutrition, Metabolism and Cardiovascular Diseases*.
 **33** (1) 65-74.
 1. Tuakli-Wosornu, Y. A., Pandiyan, U., Stratton, C., Hwang, Y., Hajjioui, A., Muñoz-Velalsco, L. P., 
  Fourtassi, M., Cooper, R., Balikuddembe, J. K., Peterson, M., Krassioukov, A., Palomba, A., Tripathi, D. R., Hong, B. (2022). 
