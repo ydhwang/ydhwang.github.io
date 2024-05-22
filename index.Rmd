@@ -65,8 +65,9 @@ Office: 11-225\
 ### Publication
 
 #### Statistics Journals
-1. Lee, J., Hwang, Y., Chang, W., B. Hong and H. Kim (2024+). Bayesian Estimation of Physical Activity from Wearable Sensor Measurements. Submitted.
-1. Hwang, Y., Kim, H. J., Chang, W., Hong, C., and MacEachern, S. N. (2023+). 
+1. Liu, X., Phan, D., Hwang, Y., Klein, L., Liu, L., Yeo, K. (2024+). Optimal Sensor Allocation with Multiple Linear Dispersion Processes. Submitted. preprint on [arxiv:2401.10437](https://arxiv.org/pdf/2401.10437). 
+1. Lee, J., Hwang, Y., Chang, W., Hong, B. and Kim, H. (2024+). Bayesian Estimation of Physical Activity from Wearable Sensor Measurements. Submitted.
+1. Hwang, Y., Kim, H. J., Chang, W., Hong, C., and MacEachern, S. N. (2024+). 
 Bayesian Model Calibration and Sensitivity Analysis for Oscillating Biological Experiments. Submitted. preprint on [arxiv:2110.10604](https://arxiv.org/abs/2110.10604).
 <!-- 1. Hwang, Y., Lee, E., Cho, D., Zhang, Q. (2021+). A Spline-based  Modeling Approach for Time-Indexed Multilevel Data. Submitted. --->
 1. Sung, C. -L., Haaland, B. Hwang, Y.  and  Lu, S. (2023) [A clustered Gaussian process model for computer experiments](https://www3.stat.sinica.edu.tw/statistica/J33N2/J33N214/J33N214.html). *Statistica Sinica*, **33**, 893-918. preprint on [arXiv:1911.04602](https://arxiv.org/abs/1911.04602).
@@ -190,7 +191,7 @@ Bayesian Model Calibration and Sensitivity Analysis for Oscillating Biological E
 * Associate editor for [Technometrics](https://www.tandfonline.com/journals/utch20) 2022 - 
 * Associate editor for [Applied Stochastic Models in Business and Industry](https://onlinelibrary.wiley.com/journal/15264025) 2018 - 2022
 
-Referee for _Technometrics, Statistica Sinica, Computational Statistics & Data Analysis,  Journal of Agricultural, Biological, and Environmental Statistics, Scandinavian Journal of Statistics, Annals of Applied Statistics,  Journal of Nonparametric Statistics, Statistics and Probability Letters, PLOS ONE, SIAM/ASA Journal on Uncertainty Quantification._
+Referee for _Technometrics, Statistica Sinica, Computational Statistics & Data Analysis,  Journal of Agricultural, Biological, and Environmental Statistics, Scandinavian Journal of Statistics, Annals of Applied Statistics, The Canadian Journal of Statistics, Journal of Nonparametric Statistics, Statistics and Probability Letters, PLOS ONE, SIAM/ASA Journal on Uncertainty Quantification._
 
 ```{r, echo=FALSE}
 htmltools::includeHTML("analytics.html")
