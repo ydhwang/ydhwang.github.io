@@ -65,7 +65,7 @@ Office: 11-225\
 ### Publication
 
 #### Statistics Journals
-1. Chang, W., Hwang, Y. and Kim, H. (2024+). Physics-Driven Dynamic Imputation with Interpolation to Pollution Satellite Images. Submitted.
+1. Chang, W., Hwang, Y. and Kim, H. (2024+). Physics-Driven Dynamic Interpolation with Application to Pollution Satellite Images. Submitted.
 1. Liu, X., Phan, D., Hwang, Y., Klein, L., Liu, L., Yeo, K. (2024+). Optimal Sensor Allocation with Multiple Linear Dispersion Processes. Submitted. preprint on [arxiv:2401.10437](https://arxiv.org/pdf/2401.10437). 
 1. Lee, J., Hwang, Y., Chang, W., Hong, B. and Kim, H. (2024+). Bayesian Estimation of Physical Activity from Wearable Sensor Measurements. Submitted.
 1. Hwang, Y., Kim, H. J., Chang, W., Hong, C., and MacEachern, S. N. (2024+). 
