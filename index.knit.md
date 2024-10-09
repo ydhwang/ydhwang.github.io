@@ -194,8 +194,17 @@ Bayesian Model Calibration and Sensitivity Analysis for Oscillating Biological E
 
 Referee for _Technometrics, Statistica Sinica, Computational Statistics & Data Analysis,  Journal of Agricultural, Biological, and Environmental Statistics, Scandinavian Journal of Statistics, Annals of Applied Statistics, The Canadian Journal of Statistics, Journal of Nonparametric Statistics, Statistics and Probability Letters, PLOS ONE, SIAM/ASA Journal on Uncertainty Quantification, Decision Support Systems._
 
-```{r, echo=FALSE}
-htmltools::includeHTML("analytics.html")
+
+```{=html}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZDL2XXM7KZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZDL2XXM7KZ');
+</script>
 ```
 
 ### Miscellaneous
