@@ -37,6 +37,12 @@ Office: 11-225\
 - Research Staff Member.  Mar 2014 - Aug 2017 
 - Postdoctoral Researcher. Sep 2012  - Feb 2014
 
+### Visiting Position
+
+[Institute for Mathematical and Statistical Innovation (IMSI)](https://www.imsi.institute/), Chicago, IL
+
+- Visiting Research Associate. Mar 2025 - May 2025.
+
 ### Education
 
 [University of Wisconsin - Madison](http://www.wisc.edu), [Madison](http://www.cityofmadison.com ), [WI](http://www.wisconsin.gov/)  
@@ -147,6 +153,7 @@ Bayesian Model Calibration and Sensitivity Analysis for Oscillating Biological E
 
 ### Selected Presentations
 
+* Division of Biostatistics, Department of Epidemiology and Population Health Albert Einstein College of Medicine. Mar 2025 (scheduled).
 * School of Public Health, Louisiana State University. New Orleans, LA. 2022.
 * Department of Applied Mathematics, Illinois Institute of Technology. Chicago, IL. 2022.
 * Department of Mathematics and Statistics, University of Maryland at Baltimore County (UMBC). Baltimore, MD. 2021.
