@@ -89,6 +89,8 @@ Bayesian Model Calibration and Sensitivity Analysis for Oscillating Biological E
 
 
 #### Collaborative 
+
+1. Yoon, M., Paek, S., Lee, S., Hwang, Y., Kim, J., Yoo, Y., Hong, B. (2024). [Performance of Activities of Daily Living in Typically Developing Children in Korea: Normative Value of K-MBI](https://synapse.koreamed.org/articles/1516088243). *Annals of Rehabilitation Medicine* **48** (4), 281-288.
 1. Kim, M. and Hwang, Y. (2024+). Aim Better with Machine Learning: Enhancing Effectiveness of Government Credit Programs for SMEs. Submitted. preprint on [https://ssrn.com/abstract=4743966](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4743966). 
 1. Lim, S., Choo, E. Choi, I. Hwang, Y. Lee, K. Lee, S. Hwang, B., Kim, C., Park, M., Lee, J., Park, C., Kim, H., Yoo, K., Jeon, D., Youn, Ho. , Chung, W., Kim, M., Jeong, M. Yim, H., Ahn, Y., and Chang, K. (2023). [Impact of malnutrition on bleeding, mortality, and ischemic events in patients with acute myocardial infarction undergoing percutaneous coronary intervention](https://www.sciencedirect.com/science/article/pii/S0939475322004215). *Nutrition, Metabolism and Cardiovascular Diseases*.
 **33** (1) 65-74.
@@ -131,7 +133,7 @@ Bayesian Model Calibration and Sensitivity Analysis for Oscillating Biological E
 * STA 9715 - Applied Probability 2023F
 * STA 9719 - Foundations of Statistical Inference 2021S, 2022S
 * STA 9708 - Managerial Statistics 2020F, 2021F 
-* STA 3154 - Business Statistics II 2020S, 2020F, 2021F, 2022F, 2023F
+* STA 3154 - Business Statistics II 2020S, 2020F, 2021F, 2022F, 2023F, 2024FS, 2024F
 * STA 4370 - Introduction to Statistical Engineering 2022F
 * STA 9661 - Multivariate Statistics for Business Analytics -- with DataCamp 2019F
 
