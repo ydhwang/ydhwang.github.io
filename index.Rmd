@@ -75,7 +75,7 @@ Office: 11-225\
 1. Liu, X., Phan, D., Hwang, Y., Klein, L., Liu, X., Yeo, K. (2024+). Optimal Sensor Allocation with Multiple Linear Dispersion Processes. Submitted. preprint on [arxiv:2401.10437](https://arxiv.org/pdf/2401.10437). 
 1. Lee, J., Hwang, Y., Chang, W., Hong, B. and Kim, H. (2024+). Bayesian Estimation of Physical Activity from Wearable Sensor Measurements. Submitted.
 1. Hwang, Y., Kim, H. J., Chang, W., Hong, C., and MacEachern, S. N. (2024+). 
-Bayesian Model Calibration and Sensitivity Analysis for Oscillating Biological Experiments. Submitted. preprint on [arxiv:2110.10604](https://arxiv.org/abs/2110.10604).
+Bayesian Model Calibration and Sensitivity Analysis for Oscillating Biological Experiments. *Technometrics*.  In Press. preprint on [arxiv:2110.10604](https://arxiv.org/abs/2110.10604).
 <!-- 1. Hwang, Y., Lee, E., Cho, D., Zhang, Q. (2021+). A Spline-based  Modeling Approach for Time-Indexed Multilevel Data. Submitted. --->
 1. Sung, C. -L., Haaland, B. Hwang, Y.  and  Lu, S. (2023) [A clustered Gaussian process model for computer experiments](https://www3.stat.sinica.edu.tw/statistica/J33N2/J33N214/J33N214.html). *Statistica Sinica*, **33**, 893-918. preprint on [arXiv:1911.04602](https://arxiv.org/abs/1911.04602).
 1. Yang, S., Kim, J. and Hwang, Y. (2021) [Integration of survey data and big observational data for finite population inference using mass imputation](https://www150.statcan.gc.ca/n1/pub/12-001-x/2021001/article/00004-eng.htm). *Survey Methodology*. **47**, 29-58. 
