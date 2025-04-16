@@ -71,7 +71,10 @@ Office: 11-225\
 ### Publication
 
 #### Statistics Journals
-<!-- 1. Chang, W., Hwang, Y. and Kim, H. (2024+). Physics-Driven Dynamic Interpolation with Application to Pollution Satellite Images. Submitted. -->
+1. Hwang, Y., Kim, S., Zhang, S., Muepie., M., and J. Kim (2025+). Small Area Estimation with a Unit-Level Model and Data Augmentation for Incomplete Auxiliary Variables. working paper.
+1. Hwang, Y., Moon, G. and Kim, J. (2025+). Estimation of Healthcare Accessibility Using Synthetic Data from Automated Map Queries. working paper.
+1. Lee, J., Hwang, Y., Chang, W., Hong, B. and Kim, H. (2025+) Bayesian Estimation of Physical Activity from Wearable Sensor Measurements. Submitted.
+1. Chang, W., Hwang, Y. and Kim, H. (2025+). Physics-Driven Dynamic Interpolation with Application to Pollution Satellite Images. Submitted.
 1. Liu, X., Phan, D., Hwang, Y., Klein, L., Liu, X., Yeo, K. (2024+). Optimal Sensor Allocation with Multiple Linear Dispersion Processes. Submitted. preprint on [arxiv:2401.10437](https://arxiv.org/pdf/2401.10437). 
 1. Lee, J., Hwang, Y., Chang, W., Hong, B. and Kim, H. (2024+). Bayesian Estimation of Physical Activity from Wearable Sensor Measurements. Submitted.
 1. Hwang, Y., Kim, H. J., Chang, W., Hong, C., and MacEachern, S. N. (2024+). 
