@@ -75,7 +75,7 @@ Office: 11-225\
 <!-- 1. Hwang, Y., Kim, S., Zhang, S., Muepie., M., and J. Kim (2025+). Small Area Estimation with a Unit-Level Model and Data Augmentation for Incomplete Auxiliary Variables. working paper. -->
 <!-- 1. Hwang, Y., and Kim, J. (2025+). Small-Area Estimation of Emergency Medical Service Accessibility Using Synthetic Geospatial API Data. Submitted. -->
 1. Lee, J., Hwang, Y., Chang, W., Hong, B. and Kim, H. (2025+) Bayesian Estimation of Physical Activity from Wearable Sensor Measurements. Submitted.
-1. Liu, X., Phan, D., Hwang, Y., Klein, L., Liu, X., Yeo, K. (2025+). Optimal Sensor Allocation with Multiple Linear Dispersion Processes. *IISE Transactions*.  Accepted.  preprint on [arxiv:2401.10437](https://arxiv.org/pdf/2401.10437). 
+1. Liu, X., Phan, D., Hwang, Y., Klein, L., Liu, X., Yeo, K. (2025+). Sparse Sensor Allocation for Inverse Problems of Detecting Sparse Leaking Emission Sources. *IISE Transactions*.  Accepted.  preprint on [arxiv:2401.10437](https://arxiv.org/pdf/2401.10437). 
 1. Chang, W., Hwang, Y. and Kim, H. (2025). [Physics-Driven Dynamic Interpolation with Application to Pollution Satellite Images.](https://doi.org/10.1016/j.spasta.2025.100923) *Spatial Statistics*. Volume 69, 100923.
 1. Hwang, Y., Kim, H. J., Chang, W., Hong, C., and MacEachern, S. N. (2025). 
 [Bayesian Model Calibration and Sensitivity Analysis for Oscillating Biological Experiments.](https://www.tandfonline.com/doi/full/10.1080/00401706.2024.2444310) *Technometrics*, **67**, 333-343. preprint on [arxiv:2110.10604](https://arxiv.org/abs/2110.10604).
