@@ -139,12 +139,13 @@ Office: 11-225\
 ### Teaching
 
 ##### At Baruch College
-* STA 9715 - Applied Probability 2023F
-* STA 9719 - Foundations of Statistical Inference 2021S, 2022S
-* STA 9708 - Managerial Statistics 2020F, 2021F 
-* STA 3154 - Business Statistics II 2020S, 2020F, 2021F, 2022F, 2023F, 2024FS, 2024F
-* STA 4370 - Introduction to Statistical Engineering 2022F
-* STA 9661 - Multivariate Statistics for Business Analytics -- with DataCamp 2019F
+* STA 9715 - Applied Probability 
+* STA 9719 - Foundations of Statistical Inference 
+* STA 9708 - Managerial Statistics 
+* STA 3154 - Business Statistics II 
+* STA 4157 - Design of Experiments
+* STA 4370 - Introduction to Statistical Engineering 
+* STA 9661 - Multivariate Statistics for Business Analytics
 
 ##### At SKKU
 * Statistical Consulting -- with DataCamp (STA5034) 2019S
