@@ -157,6 +157,7 @@ Office: 11-225\
 ### Selected Presentations
 
 * Division of Biostatistics, Department of Epidemiology and Population Health Albert Einstein College of Medicine. Mar 2025.
+* Department of Statistics, George Mason University. Apr 2024.
 * School of Public Health, Louisiana State University. New Orleans, LA. 2022.
 * Department of Applied Mathematics, Illinois Institute of Technology. Chicago, IL. 2022.
 * Department of Mathematics and Statistics, University of Maryland at Baltimore County (UMBC). Baltimore, MD. 2021.
