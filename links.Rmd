@@ -27,8 +27,8 @@ __Collaborators__
 
 - [Emre Barut](http://home.gwu.edu/~barut/)
 - [Won Chang](http://www.wonchang.net/)
-- [Peter Chien](https://uq.wisc.edu)
-- [Daegon Cho](http://dlab.kaist.ac.kr) 
+- [Peter Chien](https://mendota.cdis.wisc.edu/)
+- [Daegon Cho](https://scholar.google.com/citations?user=fESBlZgAAAAJ&hl=ko) 
 - [Jinkee Hong](https://ncmlys.wixsite.com/ncml)
 - [Jae Kwang Kim](http://jkim.public.iastate.edu)
 - [Hang J Kim](http://www.artsci.uc.edu/departments/math/fac_staff.html?eid=kim3h4&thecomp=uceprof)
