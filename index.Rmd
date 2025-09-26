@@ -72,8 +72,8 @@ Office: 11-225\
 ### Publication
 
 #### Statistics Journals
-1. Hwang, Y., Kim, S., Zhang, S., Muepie., M., and J. Kim (2025+). Small Area Estimation with a Unit-Level Model and Data Augmentation for Incomplete Auxiliary Variables. working paper.
-1. Hwang, Y., and Kim, J. (2025+). Small-Area Estimation of Emergency Medical Service Accessibility Using Synthetic Geospatial API Data. Submitted.
+<!-- 1. Hwang, Y., Kim, S., Zhang, S., Muepie., M., and J. Kim (2025+). Small Area Estimation with a Unit-Level Model and Data Augmentation for Incomplete Auxiliary Variables. working paper. -->
+<!-- 1. Hwang, Y., and Kim, J. (2025+). Small-Area Estimation of Emergency Medical Service Accessibility Using Synthetic Geospatial API Data. Submitted. -->
 1. Lee, J., Hwang, Y., Chang, W., Hong, B. and Kim, H. (2025+) Bayesian Estimation of Physical Activity from Wearable Sensor Measurements. Submitted.
 1. Liu, X., Phan, D., Hwang, Y., Klein, L., Liu, X., Yeo, K. (2025+). Optimal Sensor Allocation with Multiple Linear Dispersion Processes. Accepted. *IISE Transactions*. preprint on [arxiv:2401.10437](https://arxiv.org/pdf/2401.10437). 
 1. Chang, W., Hwang, Y. and Kim, H. (2025). [Physics-Driven Dynamic Interpolation with Application to Pollution Satellite Images.](https://doi.org/10.1016/j.spasta.2025.100923) *Spatial Statistics*. Volume 69, 100923.
