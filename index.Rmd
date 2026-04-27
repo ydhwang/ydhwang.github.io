@@ -13,7 +13,9 @@ pre {
 }
 </style>
 
-youngdeok.hwang_at_baruch_cuny_dot_edu\
+<img src="ydhwang.png" alt="ydhwang" width="180" height="180">
+
+youngdeok.hwang_at_baruch_cuny_edu\
 Paul H. Chook Department of Information Systems and Statistics\
 Baruch College, City University of New York\
 One Bernard Baruch Way, New York, NY 10010\
