@@ -52,6 +52,11 @@ Office: 11-225\
 - Ph.D., [Statistics](http://www.stat.wisc.edu), 2012.
 - M.S.,  [Statistics](http://www.stat.wisc.edu), 2010.
 
+[Yonsei University](https://www.yonsei.ac.kr), Seoul, Korea
+
+- B.A. Applied Statistics, 2007.
+- B.A. Economics, 2007.
+
 ### Research Interests
 
 
@@ -146,6 +151,7 @@ Office: 11-225\
 * STA 9708 - Managerial Statistics 
 * STA 3154 - Business Statistics II 
 * STA 4157 - Design of Experiments
+* STA 2000 - Business Statistics I
 * STA 4370 - Introduction to Statistical Engineering 
 * STA 9661 - Multivariate Statistics for Business Analytics
 
