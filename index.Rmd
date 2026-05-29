@@ -79,9 +79,10 @@ Office: 11-225\
 ### Publication
 
 #### Statistics Journals
-<!-- 1. Hwang, Y., Kim, S., Zhang, S., Muepie., M., and J. Kim (2025+). Small Area Estimation with a Unit-Level Model and Data Augmentation for Incomplete Auxiliary Variables. working paper. -->
-<!-- 1. Hwang, Y., and Kim, J. (2025+). Small-Area Estimation of Emergency Medical Service Accessibility Using Synthetic Geospatial API Data. Submitted. -->
-1. Lee, J., Hwang, Y., Chang, W., Hong, B. and Kim, H. (2026+) Bayesian Estimation of Physical Activity from Wearable Sensor Measurements. Revision submitted.
+
+1. A. Shahrokhian, Y. Hwang, and C. D. Lin (2026+). Emulators for Large-scale Computer Experiments with Quantitative and Qualitative Inputs. Submitted. 
+1. A. Almomani, W. Chang, Y. Hwang, Y. M. Kim, H. J. Kim (2026+). Synthetic Data Generation With Incomplete Survey Data Under Informative Sampling. Submitted. 
+1. Lee, J., Hwang, Y., Chang, W., Hong, B. and Kim, H. (2026+). Bayesian Estimation of Physical Activity from Wearable Sensor Measurements. Revision submitted.
 1. Liu, X., Yeo, K., Hwang, Y., Phan, D., Klein, L., Liu, X.,  (2026s+). [Sparse Sensor Allocation for Inverse Problems of Detecting Sparse Leaking Emission Sources](https://www.tandfonline.com/doi/full/10.1080/24725854.2025.2578523). *IISE Transactions*.  Accepted.  preprint on [arxiv:2509.05559](https://arxiv.org/abs/2509.05559). 
 1. Chang, W., Hwang, Y. and Kim, H. (2025). [Physics-Driven Dynamic Interpolation with Application to Pollution Satellite Images.](https://doi.org/10.1016/j.spasta.2025.100923) *Spatial Statistics*. Volume 69, 100923.
 1. Hwang, Y., Kim, H. J., Chang, W., Hong, C., and MacEachern, S. N. (2025). 
@@ -213,9 +214,9 @@ Office: 11-225\
 
 ### Professional Service
 
-* Associate editor for [Statistica Sinica](https://www3.stat.sinica.edu.tw/statistica/) 2025 - 
+* Associate editor for [Statistica Sinica](https://www3.stat.sinica.edu.tw/statistica/) 2025 - 2029.
 * Associate editor for [Technometrics](https://www.tandfonline.com/journals/utch20) 2022 - 2025.
-* Associate editor for [Applied Stochastic Models in Business and Industry](https://onlinelibrary.wiley.com/journal/15264025) 2018 - 2022
+* Associate editor for [Applied Stochastic Models in Business and Industry](https://onlinelibrary.wiley.com/journal/15264025) 2018 - 2022.
 
 Referee for _Technometrics, Statistica Sinica,  Computational Statistics & Data Analysis, Journal of Computational and Graphical Statistics, Journal of Agricultural, Biological, and Environmental Statistics, Scandinavian Journal of Statistics, Annals of Applied Statistics, The Canadian Journal of Statistics, Journal of Nonparametric Statistics, Statistics and Probability Letters, PLOS ONE, SIAM/ASA Journal on Uncertainty Quantification, Decision Support Systems, IISE Transactions._
 
