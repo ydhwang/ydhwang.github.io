@@ -80,7 +80,7 @@ Office: 11-225\
 
 #### Statistics Journals
 
-1. A. Shahrokhian, Y. Hwang, and C. D. Lin (2026+). Emulators for Large-scale Computer Experiments with Quantitative and Qualitative Inputs. Submitted. 
+1. A. Shahrokhian, Y. Hwang, and C. D. Lin (2026+). Emulators for Large-scale Computer Experiments with Quantitative and Qualitative Inputs. Submitted. preprint on [arXiv:2606.02777](https://arxiv.org/abs/2606.02777).
 1. A. Almomani, W. Chang, Y. Hwang, Y. M. Kim, H. J. Kim (2026+). Synthetic Data Generation With Incomplete Survey Data Under Informative Sampling. Submitted. preprint on [arXiv:2605.31440](https://arxiv.org/abs/2605.31440).
 1. Lee, J., Hwang, Y., Chang, W., Hong, B. and Kim, H. (2026+). Bayesian Estimation of Physical Activity from Wearable Sensor Measurements. Revision submitted.
 1. Liu, X., Yeo, K., Hwang, Y., Phan, D., Klein, L., Liu, X.,  (2026s+). [Sparse Sensor Allocation for Inverse Problems of Detecting Sparse Leaking Emission Sources](https://www.tandfonline.com/doi/full/10.1080/24725854.2025.2578523). *IISE Transactions*.  Accepted.  preprint on [arxiv:2509.05559](https://arxiv.org/abs/2509.05559). 
