@@ -106,7 +106,7 @@ Office: 11-225\
 
 
 #### Collaborative 
-
+1. Kim, J., Ha, N. N., Boo, J. Kim, H., Kim, J. Cha, N., Hwang, Y., Kim, J. (2026+). Serum Biomarker Kinetics and Clinical Response in Severe Atopic Dermatitis. 
 1. Baek, J., M. Jung, Y. Hwang, D. Cho (2026+) Fair Algorithms, Fair Decisions? Examining Gender Bias Mitigation in AI-Assisted Hiring. Submitted.
 1. Yoon, M., Paek, S., Lee, S., Hwang, Y., Kim, J., Yoo, Y., Hong, B. (2024). [Performance of Activities of Daily Living in Typically Developing Children in Korea: Normative Value of K-MBI](https://synapse.koreamed.org/articles/1516088243). *Annals of Rehabilitation Medicine* **48** (4), 281-288.
 1. Kim, M. and Hwang, Y. (2024+). Aim Better with Machine Learning: Enhancing Effectiveness of Government Credit Programs for SMEs. Submitted. preprint on [https://ssrn.com/abstract=4743966](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4743966). 
