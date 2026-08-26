@@ -28,7 +28,9 @@ Office: 11-225\
 
 [Paul H. Chook Department of Information Systems and Statistics](https://zicklin.baruch.cuny.edu/Department/cis-faculty/), [Baruch College](https://www.baruch.cuny.edu), [CUNY](https://www2.cuny.edu), New York, NY
 
-- Assistant Professor. Aug 2019 - Present
+- Associate Professor. Aug 2026 - Present
+- Assistant Professor. Aug 2019 - Aug 2026
+
 
 [Department of Statistics, Sungkyunkwan University (SKKU)](http://www.skku.edu/eng_home/index.jsp), Seoul, Korea
 
