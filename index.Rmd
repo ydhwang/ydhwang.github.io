@@ -65,6 +65,7 @@ Office: 11-225\
 * Inverse Problems, Model Calibration and Uncertainty Quantification
 * Design of Experiments
 * Analytics in Technology, Business and Service
+* Bayesian Computing
 * Spatio-Temporal Statistics
 * Survey Sampling
 
